@@ -1,1 +1,41 @@
-{"used_source_ids": [], "published": []}
+{
+ "used_source_ids": [
+  "rPmypttutJk",
+  "cfT46UVhTfo",
+  "J9Y8TG7luec",
+  "NQSndaDIvcs",
+  "wt4p2oalmRY"
+ ],
+ "published": [
+  {
+   "video_id": "U-nEnFbUGvM",
+   "title": "سر فيزيائي يجعل فتح الأقفال أسهل مما تتوقع",
+   "source": "rPmypttutJk",
+   "publish_at": "2026-11-02T08:16:00Z"
+  },
+  {
+   "video_id": "CxMD-G-97Qs",
+   "title": "سر ظاهرة النينيو التي ترعب علماء المناخ",
+   "source": "cfT46UVhTfo",
+   "publish_at": "2026-11-02T11:46:00Z"
+  },
+  {
+   "video_id": "lIxVmS4TFow",
+   "title": "المتناظرات الصوتية: أصوات لا تتغير عند عكسها!",
+   "source": "J9Y8TG7luec",
+   "publish_at": "2026-11-02T15:20:00Z"
+  },
+  {
+   "video_id": "ZvkGnWl2l7U",
+   "title": "الكنز المخفي تحت جبال افغانستان",
+   "source": "NQSndaDIvcs",
+   "publish_at": "2026-11-02T18:51:00Z"
+  },
+  {
+   "video_id": "qJhzO_fyB7Y",
+   "title": "سر خيط العنكبوت الأقوى من الفولاذ",
+   "source": "wt4p2oalmRY",
+   "publish_at": "2026-11-02T21:25:00Z"
+  }
+ ]
+}
