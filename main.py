@@ -48,6 +48,7 @@ def main():
     print(f"لقيت {len(candidates)} فكرة مرشحة")
     slots = schedule_slots(args.count)
     done = 0
+    fails = 0
 
     for idea in candidates:
         if done >= args.count:
@@ -73,8 +74,13 @@ def main():
             st["used_source_ids"].append(idea["id"])
             state.save(st)
             done += 1
+            fails = 0
         except Exception as e:
+            fails += 1
             print(f"[!] فشلت الفكرة دي: {type(e).__name__}: {e}")
+            if fails >= 3:
+                print("[!] 3 فشل ورا بعض - بوقف عشان مضيّعش وقت. راجع الخطأ فوق.")
+                break
         finally:
             shutil.rmtree(workdir, ignore_errors=True)
         time.sleep(7)  # احترام حدود Gemini المجانية
