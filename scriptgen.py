@@ -18,6 +18,7 @@ RULES:
 - 90-115 words of narration in total (about 35-45 seconds).
 - The first sentence is a strong hook (a question or surprising claim), under 12 words.
 - Use only well-established, verifiable facts. Never invent statistics, quotes, names, or dates. If unsure, speak generally.
+- Avoid medical/health advice, politics, religion, breaking news, and crime. Prefer timeless science, nature, space, history and how-things-work topics.
 - Last line is a short question that invites comments.
 - Split into 5-7 scenes. Each scene has "text" (1-2 short Arabic sentences, no emojis, no tashkeel) and "query" (2-3 English words describing a concrete visual for stock footage, e.g. "galaxy stars", "ocean waves").
 - "title": Arabic, max 60 chars, curiosity-driven but honest.

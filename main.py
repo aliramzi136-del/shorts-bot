@@ -1,6 +1,6 @@
 """المنسّق الرئيسي: اكتشاف -> فكرة -> سكريبت -> صوت -> فيديو -> رفع وجدولة."""
 import argparse, os, random, shutil, tempfile, time, datetime as dt
-import config, state, sources, scriptgen, voice, footage, render
+import config, state, sources, scriptgen, factcheck, voice, footage, render
 
 def schedule_slots(n):
     """مواعيد بكرة (UTC) مع jitter عشان مايبانش نمط ثابت."""
@@ -58,6 +58,12 @@ def main():
         try:
             transcript = sources.get_transcript(idea["id"])
             script = scriptgen.generate(idea, transcript)
+            script = factcheck.review(script, idea)
+            if script is None:
+                print("   [x] الفكرة اترفضت من مراجع الحقائق - بنجرب غيرها")
+                st["used_source_ids"].append(idea["id"])
+                state.save(st)
+                continue
             print("   العنوان:", script["title"])
             final = make_video(idea, script, workdir)
             if args.no_upload:
