@@ -1,10 +1,13 @@
 """المنسّق الرئيسي: اكتشاف -> فكرة -> سكريبت -> صوت -> فيديو -> رفع وجدولة."""
 import argparse, os, random, shutil, tempfile, time, datetime as dt
-import config, state, sources, scriptgen, factcheck, voice, footage, render
+import config, state, sources, scriptgen, factcheck, topicfilter, voice, footage, render
 
-def schedule_slots(n):
-    """مواعيد بكرة (UTC) مع jitter عشان مايبانش نمط ثابت."""
+def schedule_slots(n, st):
+    """مواعيد أول يوم فاضي من بكرة (UTC) مع jitter، عشان الفيديوهات ما تتكدسش في يوم واحد."""
+    taken = {p["publish_at"][:10] for p in st.get("published", []) if p.get("publish_at")}
     day = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(days=1)).date()
+    while day.isoformat() in taken:
+        day += dt.timedelta(days=1)
     out = []
     for s in config.SLOTS_UTC[:n]:
         h, m = map(int, s.split(":"))
@@ -46,7 +49,8 @@ def main():
     st = state.load()
     candidates = sources.find_candidates(st["used_source_ids"])
     print(f"لقيت {len(candidates)} فكرة مرشحة")
-    slots = schedule_slots(args.count)
+    candidates = topicfilter.filter_candidates(candidates)
+    slots = schedule_slots(args.count, st)
     done = 0
     fails = 0
 
