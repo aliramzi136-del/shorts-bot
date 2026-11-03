@@ -7,18 +7,19 @@ Below are numbered titles of high-performing English videos. Pick only those who
 
 EXCLUDE: medical/health advice or cancer/disease claims, politics, war and military scenarios, crime, religion, breaking news, AI/tech industry news and predictions, products/ads, personal stories, philosophy word games, and anything that needs very recent facts.
 
+{hints}
 TITLES:
 {titles}
 
 Return ONLY JSON: {{"keep": [numbers in order of best fit first]}}"""
 
-def filter_candidates(cands, limit=20):
+def filter_candidates(cands, limit=20, hints=""):
     cands = cands[:limit]
     if not cands:
         return cands
     titles = "\n".join(f"{i+1}. {c['title']} ({c['channel']})" for i, c in enumerate(cands))
     try:
-        text = gemini.call(PROMPT.format(titles=titles), json_mode=True, temperature=0.1)
+        text = gemini.call(PROMPT.format(titles=titles, hints=hints), json_mode=True, temperature=0.1)
         m = re.search(r"\{.*\}", text, flags=re.S)
         keep = [int(k) - 1 for k in json.loads(m.group(0)).get("keep", [])]
         picked = [cands[k] for k in dict.fromkeys(keep) if 0 <= k < len(cands)]

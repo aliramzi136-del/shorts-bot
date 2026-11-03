@@ -1,4 +1,3 @@
-Privacy Policy:https://gist.github.com/aliramzi136-del/8f3b28b22cf9491e8415dc59c1b6c5a4
 # Arabic Shorts Bot — نظام شورتس عربي أوتوماتيك
 
 الفكرة: كل يوم يدخل على قنوات إنجليزي في النيش، يطلع الفيديوهات الـ Outlier (مشاهدات عالية نسبةً لحجم القناة)،

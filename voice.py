@@ -39,7 +39,7 @@ def _ts(t):
     m, s = divmod(rem, 60)
     return f"{int(h)}:{int(m):02d}:{s:05.2f}"
 
-def build_ass(scene_words, path):
+def build_ass(scene_words, path, hook=""):
     """scene_words: list of (scene_offset, [(s,e,word)...])"""
     head = f"""[Script Info]
 ScriptType: v4.00+
@@ -50,11 +50,14 @@ WrapStyle: 2
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,{config.SUB_FONT},88,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,70,70,520,1
+Style: Hook,{config.SUB_FONT},104,&H0000E6FF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,9,3,8,60,60,330,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     lines = []
+    if hook:
+        lines.append(f"Dialogue: 1,{_ts(0)},{_ts(config.HOOK_SECONDS)},Hook,,0,0,0,,{hook}")
     n = config.SUB_WORDS_PER_CHUNK
     for offset, words in scene_words:
         chunks = [words[i:i + n] for i in range(0, len(words), n)]

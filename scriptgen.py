@@ -21,9 +21,11 @@ RULES:
 - "title": Arabic, max 60 chars, curiosity-driven but honest.
 - "description": 2 short Arabic sentences.
 - "tags": 6 tags (Arabic and English), no '#'.
+- "category": exactly one of: space, earth, animals, human-body, physics, chemistry, history, how-it-works, other.
+- "topic_query": 2 English words for a generic stock-footage search that fits the whole topic.
 
 Return ONLY valid JSON:
-{{"title": "", "description": "", "tags": [], "scenes": [{{"text": "", "query": ""}}]}}
+{{"title": "", "description": "", "tags": [], "category": "", "topic_query": "", "scenes": [{{"text": "", "query": ""}}]}}
 """
 
 def generate(idea, transcript):
