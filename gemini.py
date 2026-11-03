@@ -38,7 +38,8 @@ def models():
     print("[i] موديلات هستخدمها بالترتيب:", ", ".join(_models))
     return _models
 
-def call(prompt, json_mode=False, search=False, temperature=0.9, timeout=120):
+def call(prompt, json_mode=False, search=False, temperature=0.9, timeout=None):
+    timeout = timeout or (120 if search else 75)
     key = os.environ["GEMINI_API_KEY"]
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": temperature}}
@@ -51,8 +52,15 @@ def call(prompt, json_mode=False, search=False, temperature=0.9, timeout=120):
         if (model, search) in _dead:
             continue
         for attempt in range(2):
-            r = requests.post(f"{BASE}/models/{model}:generateContent",
-                              params={"key": key}, json=body, timeout=timeout)
+            try:
+                r = requests.post(f"{BASE}/models/{model}:generateContent",
+                                  params={"key": key}, json=body, timeout=timeout)
+            except requests.exceptions.RequestException as e:
+                # الموديل بطيء أو مش بيرد: نسيبه لباقي التشغيل ونجرب اللي بعده
+                errors.append(f"{model}: {type(e).__name__}")
+                print(f"[i] {model} مردش في الوقت - هجرب موديل تاني")
+                _dead.add((model, search))
+                break
             code = r.status_code
             if code == 200:
                 try:
