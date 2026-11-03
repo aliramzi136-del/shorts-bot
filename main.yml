@@ -2,6 +2,9 @@ name: daily-shorts
 on:
   schedule:
     - cron: "0 1 * * *"
+    - cron: "0 3 * * *"
+    - cron: "0 5 * * *"
+    - cron: "0 7 * * *"
   workflow_dispatch:
     inputs:
       test:
@@ -10,10 +13,13 @@ on:
         default: true
 permissions:
   contents: write
+concurrency:
+  group: shorts
+  cancel-in-progress: false
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     env:
       YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -40,13 +46,13 @@ jobs:
           name: test-video
           path: output/*.mp4
 
-      - name: التشغيل الحقيقي (5 فيديوهات ورفع)
+      - name: التشغيل الحقيقي (يكمّل الناقص ليوم بكرة)
         if: ${{ github.event_name == 'schedule' || !inputs.test }}
         run: python main.py --count 5
       - name: save state
-        if: ${{ github.event_name == 'schedule' || !inputs.test }}
+        if: ${{ always() && (github.event_name == 'schedule' || !inputs.test) }}
         run: |
           git config user.name "shorts-bot"
           git config user.email "bot@users.noreply.github.com"
           git add state.json || true
-          git diff --cached --quiet || (git commit -m "update state" && git push)
+          git diff --cached --quiet || (git commit -m "update state" && git pull --rebase && git push)
