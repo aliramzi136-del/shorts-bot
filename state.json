@@ -6,7 +6,11 @@
   "TumxO2glmPQ",
   "oR94cicO7xM",
   "eyZEqSPeMwg",
-  "J9Y8TG7luec"
+  "J9Y8TG7luec",
+  "tL9Lw250spc",
+  "09Zd9k-szWw",
+  "HTYIKPcPRRQ",
+  "q-9PXV0UfkA"
  ],
  "published": [
   {
@@ -40,6 +44,30 @@
    "source_channel": "Vsauce",
    "category": "physics",
    "publish_at": "2026-11-06T11:51:00Z"
+  },
+  {
+   "video_id": "-qNT3ExS5Wc",
+   "title": "السر العلمي وراء بقاء الذهب لامعاً للأبد",
+   "source": "09Zd9k-szWw",
+   "source_channel": "SciShow",
+   "category": "chemistry",
+   "publish_at": "2026-11-06T14:38:00Z"
+  },
+  {
+   "video_id": "FvWiq_QFFrU",
+   "title": "هل الفضاء مجرد وهم كمي؟",
+   "source": "HTYIKPcPRRQ",
+   "source_channel": "The Infographics Show",
+   "category": "physics",
+   "publish_at": "2026-11-06T18:09:00Z"
+  },
+  {
+   "video_id": "9iGC_LXdYUw",
+   "title": "لماذا يعجز أقوى حاسوب عن معرفة نهاية رقم باي؟",
+   "source": "q-9PXV0UfkA",
+   "source_channel": "AsapSCIENCE",
+   "category": "physics",
+   "publish_at": "2026-11-06T21:07:00Z"
   }
  ],
  "fails": {
