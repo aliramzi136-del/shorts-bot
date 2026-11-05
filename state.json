@@ -1,7 +1,12 @@
 {
  "used_source_ids": [
   "wt4p2oalmRY",
-  "NiCgcUTL9_Q"
+  "NiCgcUTL9_Q",
+  "JpR3oeTlzos",
+  "TumxO2glmPQ",
+  "oR94cicO7xM",
+  "eyZEqSPeMwg",
+  "J9Y8TG7luec"
  ],
  "published": [
   {
@@ -19,8 +24,26 @@
    "source_channel": "Veritasium",
    "category": "how-it-works",
    "publish_at": "2026-11-05T08:13:00Z"
+  },
+  {
+   "video_id": "VQ1ZrcBM1lI",
+   "title": "كيف يمر الوقت بشكل أسرع في الأعلى؟",
+   "source": "eyZEqSPeMwg",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-06T08:08:00Z"
+  },
+  {
+   "video_id": "qjVOrYed5to",
+   "title": "ظاهرة سماع الكلمات بالعكس",
+   "source": "J9Y8TG7luec",
+   "source_channel": "Vsauce",
+   "category": "physics",
+   "publish_at": "2026-11-06T11:51:00Z"
   }
  ],
- "fails": {},
+ "fails": {
+  "pZtU48TjxXg": 1
+ },
  "stats": {}
 }
