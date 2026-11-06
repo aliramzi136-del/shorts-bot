@@ -10,7 +10,9 @@
   "tL9Lw250spc",
   "09Zd9k-szWw",
   "HTYIKPcPRRQ",
-  "q-9PXV0UfkA"
+  "q-9PXV0UfkA",
+  "rPmypttutJk",
+  "j9p3Sn8ROL4"
  ],
  "published": [
   {
@@ -68,6 +70,22 @@
    "source_channel": "AsapSCIENCE",
    "category": "physics",
    "publish_at": "2026-11-06T21:07:00Z"
+  },
+  {
+   "video_id": "26wML5eiwZk",
+   "title": "كيف تلتصق الضفادع بالأسطح المبللة؟",
+   "source": "rPmypttutJk",
+   "source_channel": "Vsauce",
+   "category": "animals",
+   "publish_at": "2026-11-07T07:45:00Z"
+  },
+  {
+   "video_id": "-xlECNMoUzg",
+   "title": "سر انحناء المعادن دون أن تنكسر",
+   "source": "j9p3Sn8ROL4",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-07T11:30:00Z"
   }
  ],
  "fails": {
