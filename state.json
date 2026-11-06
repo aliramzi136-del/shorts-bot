@@ -12,7 +12,9 @@
   "HTYIKPcPRRQ",
   "q-9PXV0UfkA",
   "rPmypttutJk",
-  "j9p3Sn8ROL4"
+  "j9p3Sn8ROL4",
+  "cfT46UVhTfo",
+  "3HQkVfZ4DNY"
  ],
  "published": [
   {
@@ -86,6 +88,14 @@
    "source_channel": "Veritasium",
    "category": "physics",
    "publish_at": "2026-11-07T11:30:00Z"
+  },
+  {
+   "video_id": "aEH2uoY-Ui0",
+   "title": "كيف نختبر قوة الصواريخ الضخمة قبل إطلاقها؟",
+   "source": "3HQkVfZ4DNY",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-07T15:07:00Z"
   }
  ],
  "fails": {
