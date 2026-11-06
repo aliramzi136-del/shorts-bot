@@ -14,7 +14,9 @@
   "rPmypttutJk",
   "j9p3Sn8ROL4",
   "cfT46UVhTfo",
-  "3HQkVfZ4DNY"
+  "3HQkVfZ4DNY",
+  "zEmabFZvdqA",
+  "4SKpHDjf6_Q"
  ],
  "published": [
   {
@@ -96,6 +98,22 @@
    "source_channel": "Veritasium",
    "category": "physics",
    "publish_at": "2026-11-07T15:07:00Z"
+  },
+  {
+   "video_id": "TbQfmmiLTH8",
+   "title": "لغز الوزن المفقود في الماء وسر ميزان الفيزياء",
+   "source": "zEmabFZvdqA",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-07T18:22:00Z"
+  },
+  {
+   "video_id": "sG6rbsO0W2c",
+   "title": "لماذا سقط رواد الفضاء على القمر مراراً وتكراراً؟",
+   "source": "4SKpHDjf6_Q",
+   "source_channel": "Vsauce",
+   "category": "space",
+   "publish_at": "2026-11-07T21:35:00Z"
   }
  ],
  "fails": {
