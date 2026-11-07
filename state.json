@@ -16,7 +16,13 @@
   "cfT46UVhTfo",
   "3HQkVfZ4DNY",
   "zEmabFZvdqA",
-  "4SKpHDjf6_Q"
+  "4SKpHDjf6_Q",
+  "ujkD4SxPKOI",
+  "0NY2gAftzJE",
+  "Fob38Jo9F_k",
+  "NQSndaDIvcs",
+  "pZtU48TjxXg",
+  "y-TQq6sQ4Z0"
  ],
  "published": [
   {
@@ -114,6 +120,46 @@
    "source_channel": "Vsauce",
    "category": "space",
    "publish_at": "2026-11-07T21:35:00Z"
+  },
+  {
+   "video_id": "K1mR9cc6epE",
+   "title": "كيف تفكر الشبكات العصبية في الذكاء الاصطناعي؟",
+   "source": "ujkD4SxPKOI",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "how-it-works",
+   "publish_at": "2026-11-08T07:53:00Z"
+  },
+  {
+   "video_id": "W_gaN6nr-uM",
+   "title": "فيروسات تنقذ البشر من السرطان",
+   "source": "0NY2gAftzJE",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-08T11:18:00Z"
+  },
+  {
+   "video_id": "-HVFkXcEAR8",
+   "title": "سر التحذير الغامض على علب المشروبات الغازية",
+   "source": "Fob38Jo9F_k",
+   "source_channel": "Vsauce",
+   "category": "chemistry",
+   "publish_at": "2026-11-08T14:45:00Z"
+  },
+  {
+   "video_id": "-wPBMBUqXtM",
+   "title": "ماذا يحدث للمدن لو اختفى البشر فجأة؟",
+   "source": "NQSndaDIvcs",
+   "source_channel": "RealLifeLore",
+   "category": "how-it-works",
+   "publish_at": "2026-11-08T18:49:00Z"
+  },
+  {
+   "video_id": "6Dl0ierRZ8Y",
+   "title": "دودة البلاناريا: تنمي رأسا جديدا وتتذكر كل شيء!",
+   "source": "y-TQq6sQ4Z0",
+   "source_channel": "Vsauce",
+   "category": "animals",
+   "publish_at": "2026-11-08T21:26:00Z"
   }
  ],
  "fails": {
@@ -121,7 +167,7 @@
  },
  "stats": {
   "9BUkngYIljM": {
-   "views": 9,
+   "views": 10,
    "likes": 0
   }
  }
