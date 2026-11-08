@@ -22,7 +22,13 @@
   "Fob38Jo9F_k",
   "NQSndaDIvcs",
   "pZtU48TjxXg",
-  "y-TQq6sQ4Z0"
+  "y-TQq6sQ4Z0",
+  "_y9JuojAIg0",
+  "Cyl3X88KEgg",
+  "gNVj-FIxoe4",
+  "F5_G0AHfYhI",
+  "NBXu6Z9Fw_M",
+  "YwxiF2Gqtww"
  ],
  "published": [
   {
@@ -160,6 +166,46 @@
    "source_channel": "Vsauce",
    "category": "animals",
    "publish_at": "2026-11-08T21:26:00Z"
+  },
+  {
+   "video_id": "YCWB1S1bGhc",
+   "title": "لماذا قد نكون مسجونين داخل المجموعة الشمسية للأبد؟",
+   "source": "Cyl3X88KEgg",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "space",
+   "publish_at": "2026-11-09T08:02:00Z"
+  },
+  {
+   "video_id": "lcrQNIwP48g",
+   "title": "حقيقة مذهلة: لماذا لا تحترق الشمس بالنار؟",
+   "source": "gNVj-FIxoe4",
+   "source_channel": "Vsauce",
+   "category": "space",
+   "publish_at": "2026-11-09T11:16:00Z"
+  },
+  {
+   "video_id": "hYPVXZLEqoY",
+   "title": "هل يمكن التحرك بأسرع من سرعة الرياح؟",
+   "source": "F5_G0AHfYhI",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-09T15:11:00Z"
+  },
+  {
+   "video_id": "rXnuP5Jty1A",
+   "title": "سر عجيب عن الكهرباء التي تستهلكها الان!",
+   "source": "NBXu6Z9Fw_M",
+   "source_channel": "Tom Scott",
+   "category": "how-it-works",
+   "publish_at": "2026-11-09T18:22:00Z"
+  },
+  {
+   "video_id": "igSlLGlvX_s",
+   "title": "لماذا يتعمد طيارو الاختبار إسقاط الطائرات؟",
+   "source": "YwxiF2Gqtww",
+   "source_channel": "Tom Scott",
+   "category": "how-it-works",
+   "publish_at": "2026-11-09T21:12:00Z"
   }
  ],
  "fails": {
@@ -168,6 +214,10 @@
  "stats": {
   "9BUkngYIljM": {
    "views": 10,
+   "likes": 0
+  },
+  "S0BAywuoXAk": {
+   "views": 3,
    "likes": 0
   }
  }
