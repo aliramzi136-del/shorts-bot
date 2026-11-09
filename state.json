@@ -31,7 +31,10 @@
   "YwxiF2Gqtww",
   "J1WoNuemKOg",
   "i7esSCr2UJk",
-  "V6HRAcwFyec"
+  "V6HRAcwFyec",
+  "_1G8nrmBKeY",
+  "IJSO-BL3pEU",
+  "QW_jlUn4gA8"
  ],
  "published": [
   {
@@ -225,6 +228,30 @@
    "source_channel": "SciShow",
    "category": "chemistry",
    "publish_at": "2026-11-10T11:42:00Z"
+  },
+  {
+   "video_id": "fZMUrBqsm5A",
+   "title": "كيف تبحر الغواصات في الأعماق المظلمة؟",
+   "source": "_1G8nrmBKeY",
+   "source_channel": "Veritasium",
+   "category": "how-it-works",
+   "publish_at": "2026-11-10T14:50:00Z"
+  },
+  {
+   "video_id": "9he752MPOe0",
+   "title": "عجلات فضائية ذكية لا تتلف ابدا",
+   "source": "IJSO-BL3pEU",
+   "source_channel": "Tom Scott",
+   "category": "space",
+   "publish_at": "2026-11-10T18:15:00Z"
+  },
+  {
+   "video_id": "we3fe0qpoI8",
+   "title": "هل الذكاء الفائق في الكون أصغر مما نتخيل؟",
+   "source": "QW_jlUn4gA8",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "space",
+   "publish_at": "2026-11-10T21:50:00Z"
   }
  ],
  "fails": {
