@@ -28,7 +28,10 @@
   "gNVj-FIxoe4",
   "F5_G0AHfYhI",
   "NBXu6Z9Fw_M",
-  "YwxiF2Gqtww"
+  "YwxiF2Gqtww",
+  "J1WoNuemKOg",
+  "i7esSCr2UJk",
+  "V6HRAcwFyec"
  ],
  "published": [
   {
@@ -206,10 +209,28 @@
    "source_channel": "Tom Scott",
    "category": "how-it-works",
    "publish_at": "2026-11-09T21:12:00Z"
+  },
+  {
+   "video_id": "5hp-xVxT56k",
+   "title": "كيف يبدو كسوف الشمس من الفضاء الخارجي؟",
+   "source": "J1WoNuemKOg",
+   "source_channel": "Veritasium",
+   "category": "space",
+   "publish_at": "2026-11-10T07:54:00Z"
+  },
+  {
+   "video_id": "FYSBGJ6eQb8",
+   "title": "أسرار الفيتامينات المفقودة ولماذا اختفت بعض الحروف؟",
+   "source": "i7esSCr2UJk",
+   "source_channel": "SciShow",
+   "category": "chemistry",
+   "publish_at": "2026-11-10T11:42:00Z"
   }
  ],
  "fails": {
-  "pZtU48TjxXg": 1
+  "pZtU48TjxXg": 1,
+  "IJSO-BL3pEU": 1,
+  "QW_jlUn4gA8": 1
  },
  "stats": {
   "9BUkngYIljM": {
@@ -217,7 +238,27 @@
    "likes": 0
   },
   "S0BAywuoXAk": {
+   "views": 4,
+   "likes": 0
+  },
+  "VQ1ZrcBM1lI": {
    "views": 3,
+   "likes": 0
+  },
+  "qjVOrYed5to": {
+   "views": 8,
+   "likes": 0
+  },
+  "-qNT3ExS5Wc": {
+   "views": 2,
+   "likes": 0
+  },
+  "FvWiq_QFFrU": {
+   "views": 2,
+   "likes": 0
+  },
+  "9iGC_LXdYUw": {
+   "views": 6,
    "likes": 0
   }
  }
