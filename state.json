@@ -36,7 +36,9 @@
   "IJSO-BL3pEU",
   "QW_jlUn4gA8",
   "5U-V0y-fkSw",
-  "1k1w1Q8vr5g"
+  "1k1w1Q8vr5g",
+  "i0mqdRGYgbU",
+  "-E47v4Oy7fE"
  ],
  "published": [
   {
@@ -270,6 +272,22 @@
    "source_channel": "Vsauce",
    "category": "space",
    "publish_at": "2026-11-11T11:36:00Z"
+  },
+  {
+   "video_id": "uDgG9TRJxNk",
+   "title": "سر قرص أويلر الفيزيائي الذي يتحدى التوقع",
+   "source": "i0mqdRGYgbU",
+   "source_channel": "Vsauce",
+   "category": "physics",
+   "publish_at": "2026-11-11T14:45:00Z"
+  },
+  {
+   "video_id": "XRh9NCTJEjI",
+   "title": "لماذا يدمر المهندسون الأشياء عمدا؟",
+   "source": "-E47v4Oy7fE",
+   "source_channel": "Tom Scott",
+   "category": "how-it-works",
+   "publish_at": "2026-11-11T18:52:00Z"
   }
  ],
  "fails": {
