@@ -38,7 +38,8 @@
   "5U-V0y-fkSw",
   "1k1w1Q8vr5g",
   "i0mqdRGYgbU",
-  "-E47v4Oy7fE"
+  "-E47v4Oy7fE",
+  "VKlulHwMxgU"
  ],
  "published": [
   {
@@ -288,6 +289,14 @@
    "source_channel": "Tom Scott",
    "category": "how-it-works",
    "publish_at": "2026-11-11T18:52:00Z"
+  },
+  {
+   "video_id": "ECohT7Qe3EU",
+   "title": "لماذا لا نطير بعيداً عن الأرض رغم دورانها السريع؟",
+   "source": "VKlulHwMxgU",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-11T21:46:00Z"
   }
  ],
  "fails": {
