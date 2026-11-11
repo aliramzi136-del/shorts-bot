@@ -39,7 +39,10 @@
   "1k1w1Q8vr5g",
   "i0mqdRGYgbU",
   "-E47v4Oy7fE",
-  "VKlulHwMxgU"
+  "VKlulHwMxgU",
+  "WiRLNEl-4bk",
+  "Pnwuw5UyU0s",
+  "Dr4lseoF82c"
  ],
  "published": [
   {
@@ -297,6 +300,30 @@
    "source_channel": "Veritasium",
    "category": "physics",
    "publish_at": "2026-11-11T21:46:00Z"
+  },
+  {
+   "video_id": "ypVxqzjZoqw",
+   "title": "تسونامي الجبال.. أخطر كوارث المرتفعات",
+   "source": "WiRLNEl-4bk",
+   "source_channel": "RealLifeLore",
+   "category": "earth",
+   "publish_at": "2026-11-12T07:58:00Z"
+  },
+  {
+   "video_id": "RJgVu7LYdtM",
+   "title": "لماذا الرصاص داخل أقلام الرصاص ليس رصاصا؟",
+   "source": "Pnwuw5UyU0s",
+   "source_channel": "Vsauce",
+   "category": "how-it-works",
+   "publish_at": "2026-11-12T11:25:00Z"
+  },
+  {
+   "video_id": "zv2Cjt4u56E",
+   "title": "لماذا كان البشر يخافون من سرعة القطارات قديما؟",
+   "source": "Dr4lseoF82c",
+   "source_channel": "Tom Scott",
+   "category": "history",
+   "publish_at": "2026-11-12T15:05:00Z"
   }
  ],
  "fails": {
@@ -330,7 +357,7 @@
    "likes": 0
   },
   "9iGC_LXdYUw": {
-   "views": 8,
+   "views": 9,
    "likes": 0
   },
   "26wML5eiwZk": {
@@ -346,7 +373,7 @@
    "likes": 0
   },
   "TbQfmmiLTH8": {
-   "views": 11,
+   "views": 12,
    "likes": 0
   },
   "sG6rbsO0W2c": {
@@ -354,7 +381,23 @@
    "likes": 0
   },
   "K1mR9cc6epE": {
+   "views": 9,
+   "likes": 1
+  },
+  "W_gaN6nr-uM": {
+   "views": 5,
+   "likes": 0
+  },
+  "-HVFkXcEAR8": {
    "views": 3,
+   "likes": 0
+  },
+  "-wPBMBUqXtM": {
+   "views": 3,
+   "likes": 0
+  },
+  "6Dl0ierRZ8Y": {
+   "views": 64,
    "likes": 0
   }
  }
