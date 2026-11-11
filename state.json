@@ -42,7 +42,9 @@
   "VKlulHwMxgU",
   "WiRLNEl-4bk",
   "Pnwuw5UyU0s",
-  "Dr4lseoF82c"
+  "Dr4lseoF82c",
+  "rL0qEmTRI-I",
+  "kO1ASsAuc1Y"
  ],
  "published": [
   {
@@ -324,6 +326,22 @@
    "source_channel": "Tom Scott",
    "category": "history",
    "publish_at": "2026-11-12T15:05:00Z"
+  },
+  {
+   "video_id": "jA4AaYi29L8",
+   "title": "لماذا تصبح الصحراء شديدة البرودة ليلا؟",
+   "source": "rL0qEmTRI-I",
+   "source_channel": "Veritasium",
+   "category": "earth",
+   "publish_at": "2026-11-12T18:53:00Z"
+  },
+  {
+   "video_id": "iYhLejC8lZw",
+   "title": "القوة التي تحكم الكون وتتحكم بالزمن",
+   "source": "kO1ASsAuc1Y",
+   "source_channel": "Vsauce",
+   "category": "space",
+   "publish_at": "2026-11-12T21:55:00Z"
   }
  ],
  "fails": {
