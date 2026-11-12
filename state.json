@@ -45,7 +45,10 @@
   "Dr4lseoF82c",
   "rL0qEmTRI-I",
   "kO1ASsAuc1Y",
-  "4DaETxhoAxg"
+  "4DaETxhoAxg",
+  "IHkp5Kq72ro",
+  "jUa2x_xpFuM",
+  "drrUvxtT6lU"
  ],
  "published": [
   {
@@ -343,6 +346,22 @@
    "source_channel": "Vsauce",
    "category": "space",
    "publish_at": "2026-11-12T21:55:00Z"
+  },
+  {
+   "video_id": "fWRpXh5qPYE",
+   "title": "سر التيفلون: ماذا يحدث عند تسخين المقالي؟",
+   "source": "IHkp5Kq72ro",
+   "source_channel": "Veritasium",
+   "category": "chemistry",
+   "publish_at": "2026-11-13T08:08:00Z"
+  },
+  {
+   "video_id": "Ymp0QJvKke8",
+   "title": "تاريخ الروبوتات العجيب: كيف بدأت الآلات الذكية؟",
+   "source": "drrUvxtT6lU",
+   "source_channel": "Tom Scott",
+   "category": "history",
+   "publish_at": "2026-11-13T11:24:00Z"
   }
  ],
  "fails": {
@@ -424,7 +443,7 @@
    "likes": 0
   },
   "lcrQNIwP48g": {
-   "views": 3,
+   "views": 4,
    "likes": 0
   },
   "hYPVXZLEqoY": {
