@@ -48,7 +48,9 @@
   "4DaETxhoAxg",
   "IHkp5Kq72ro",
   "jUa2x_xpFuM",
-  "drrUvxtT6lU"
+  "drrUvxtT6lU",
+  "Mi_fYfpycT0",
+  "O3a99HNskNk"
  ],
  "published": [
   {
@@ -362,6 +364,22 @@
    "source_channel": "Tom Scott",
    "category": "history",
    "publish_at": "2026-11-13T11:24:00Z"
+  },
+  {
+   "video_id": "H6rmI9-F9E4",
+   "title": "لماذا تعجز أحدث الروبوتات عن مجاراة مقاومة الناموس للمطر؟",
+   "source": "Mi_fYfpycT0",
+   "source_channel": "Tom Scott",
+   "category": "animals",
+   "publish_at": "2026-11-13T15:03:00Z"
+  },
+  {
+   "video_id": "9JTVvECOgGw",
+   "title": "لماذا يهرب مهندسو الكهرباء من هذا الرسم المرعب؟",
+   "source": "O3a99HNskNk",
+   "source_channel": "Veritasium",
+   "category": "how-it-works",
+   "publish_at": "2026-11-13T18:05:00Z"
   }
  ],
  "fails": {
@@ -419,7 +437,7 @@
    "likes": 0
   },
   "K1mR9cc6epE": {
-   "views": 11,
+   "views": 12,
    "likes": 1
   },
   "W_gaN6nr-uM": {
