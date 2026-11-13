@@ -54,7 +54,9 @@
   "SzM1hpnXux4",
   "0V-4lQYNugA",
   "tDLbO9KeddY",
-  "omYfLDlt-MA"
+  "omYfLDlt-MA",
+  "5_Fayfx2NUM",
+  "b3KpFdb1pW8"
  ],
  "published": [
   {
@@ -416,6 +418,22 @@
    "source_channel": "Tom Scott",
    "category": "how-it-works",
    "publish_at": "2026-11-14T15:19:00Z"
+  },
+  {
+   "video_id": "MD8Jf4vvN3Y",
+   "title": "كيف يرى الدماغ العالم من حولنا؟",
+   "source": "5_Fayfx2NUM",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-14T18:29:00Z"
+  },
+  {
+   "video_id": "gGqSUw8CEVI",
+   "title": "كيف يرى الدماغ الألوان حقاً؟",
+   "source": "b3KpFdb1pW8",
+   "source_channel": "Veritasium",
+   "category": "human-body",
+   "publish_at": "2026-11-14T21:49:00Z"
   }
  ],
  "fails": {
