@@ -51,7 +51,9 @@
   "drrUvxtT6lU",
   "Mi_fYfpycT0",
   "O3a99HNskNk",
-  "SzM1hpnXux4"
+  "SzM1hpnXux4",
+  "0V-4lQYNugA",
+  "tDLbO9KeddY"
  ],
  "published": [
   {
@@ -389,6 +391,22 @@
    "source_channel": "Tom Scott",
    "category": "how-it-works",
    "publish_at": "2026-11-13T21:08:00Z"
+  },
+  {
+   "video_id": "a8MooodYenk",
+   "title": "سر حظر لمس أحجار ستونهنج الغريبة",
+   "source": "0V-4lQYNugA",
+   "source_channel": "Tom Scott",
+   "category": "history",
+   "publish_at": "2026-11-14T08:08:00Z"
+  },
+  {
+   "video_id": "FtrlHDo7xlM",
+   "title": "كيف اخفوا اكبر سر عسكري في التاريخ؟",
+   "source": "tDLbO9KeddY",
+   "source_channel": "Tom Scott",
+   "category": "history",
+   "publish_at": "2026-11-14T11:22:00Z"
   }
  ],
  "fails": {
@@ -398,7 +416,7 @@
  },
  "stats": {
   "9BUkngYIljM": {
-   "views": 13,
+   "views": 14,
    "likes": 0
   },
   "S0BAywuoXAk": {
@@ -430,7 +448,7 @@
    "likes": 0
   },
   "-xlECNMoUzg": {
-   "views": 3,
+   "views": 4,
    "likes": 0
   },
   "aEH2uoY-Ui0": {
@@ -438,7 +456,7 @@
    "likes": 0
   },
   "TbQfmmiLTH8": {
-   "views": 15,
+   "views": 18,
    "likes": 0
   },
   "sG6rbsO0W2c": {
@@ -446,7 +464,7 @@
    "likes": 0
   },
   "K1mR9cc6epE": {
-   "views": 12,
+   "views": 13,
    "likes": 1
   },
   "W_gaN6nr-uM": {
@@ -454,7 +472,7 @@
    "likes": 0
   },
   "-HVFkXcEAR8": {
-   "views": 3,
+   "views": 9,
    "likes": 0
   },
   "-wPBMBUqXtM": {
@@ -474,19 +492,35 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 9,
+   "views": 12,
    "likes": 1
   },
   "rXnuP5Jty1A": {
-   "views": 6,
-   "likes": 0
-  },
-  "igSlLGlvX_s": {
    "views": 8,
    "likes": 0
   },
+  "igSlLGlvX_s": {
+   "views": 9,
+   "likes": 0
+  },
   "5hp-xVxT56k": {
-   "views": 1,
+   "views": 6,
+   "likes": 0
+  },
+  "FYSBGJ6eQb8": {
+   "views": 10,
+   "likes": 0
+  },
+  "fZMUrBqsm5A": {
+   "views": 4,
+   "likes": 0
+  },
+  "9he752MPOe0": {
+   "views": 0,
+   "likes": 0
+  },
+  "we3fe0qpoI8": {
+   "views": 6,
    "likes": 0
   }
  }
