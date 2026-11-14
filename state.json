@@ -56,7 +56,8 @@
   "tDLbO9KeddY",
   "omYfLDlt-MA",
   "5_Fayfx2NUM",
-  "b3KpFdb1pW8"
+  "b3KpFdb1pW8",
+  "NxZOBBenmZM"
  ],
  "published": [
   {
@@ -434,6 +435,14 @@
    "source_channel": "Veritasium",
    "category": "human-body",
    "publish_at": "2026-11-14T21:49:00Z"
+  },
+  {
+   "video_id": "evinYuU3Z1Q",
+   "title": "كيف يحمي هذا الضباب الغريب انفاق النهر؟",
+   "source": "NxZOBBenmZM",
+   "source_channel": "Tom Scott",
+   "category": "how-it-works",
+   "publish_at": "2026-11-15T08:04:00Z"
   }
  ],
  "fails": {
@@ -447,11 +456,11 @@
    "likes": 0
   },
   "S0BAywuoXAk": {
-   "views": 5,
+   "views": 6,
    "likes": 0
   },
   "VQ1ZrcBM1lI": {
-   "views": 3,
+   "views": 4,
    "likes": 0
   },
   "qjVOrYed5to": {
@@ -483,7 +492,7 @@
    "likes": 0
   },
   "TbQfmmiLTH8": {
-   "views": 18,
+   "views": 19,
    "likes": 0
   },
   "sG6rbsO0W2c": {
@@ -499,7 +508,7 @@
    "likes": 0
   },
   "-HVFkXcEAR8": {
-   "views": 9,
+   "views": 13,
    "likes": 0
   },
   "-wPBMBUqXtM": {
@@ -507,7 +516,7 @@
    "likes": 0
   },
   "6Dl0ierRZ8Y": {
-   "views": 66,
+   "views": 73,
    "likes": 0
   },
   "YCWB1S1bGhc": {
@@ -515,7 +524,7 @@
    "likes": 0
   },
   "lcrQNIwP48g": {
-   "views": 4,
+   "views": 7,
    "likes": 0
   },
   "hYPVXZLEqoY": {
@@ -527,7 +536,7 @@
    "likes": 0
   },
   "igSlLGlvX_s": {
-   "views": 9,
+   "views": 8,
    "likes": 0
   },
   "5hp-xVxT56k": {
@@ -543,7 +552,7 @@
    "likes": 0
   },
   "9he752MPOe0": {
-   "views": 0,
+   "views": 1,
    "likes": 0
   },
   "we3fe0qpoI8": {
@@ -553,6 +562,22 @@
   "2ia5_5OOCDA": {
    "views": 863,
    "likes": 5
+  },
+  "8kZSSp12ikY": {
+   "views": 34,
+   "likes": 1
+  },
+  "uDgG9TRJxNk": {
+   "views": 940,
+   "likes": 6
+  },
+  "XRh9NCTJEjI": {
+   "views": 3,
+   "likes": 0
+  },
+  "ECohT7Qe3EU": {
+   "views": 0,
+   "likes": 0
   }
  }
 }
