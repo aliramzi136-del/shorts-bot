@@ -60,7 +60,9 @@
   "NxZOBBenmZM",
   "BxXfeotgVVA",
   "7S8mK7WSNZQ",
-  "Kap7mRzr13w"
+  "Kap7mRzr13w",
+  "2cK8l5Yg5w8",
+  "Awf9D7vIgvE"
  ],
  "published": [
   {
@@ -462,6 +464,22 @@
    "source_channel": "Tom Scott",
    "category": "how-it-works",
    "publish_at": "2026-11-15T14:43:00Z"
+  },
+  {
+   "video_id": "6FqUN5s6_yI",
+   "title": "السر الخفي في جوزة الطيب: متى يصبح البهار خطيرا؟",
+   "source": "2cK8l5Yg5w8",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "chemistry",
+   "publish_at": "2026-11-15T18:08:00Z"
+  },
+  {
+   "video_id": "uW135iKyx6o",
+   "title": "لماذا تتباطأ برامج الكمبيوتر المفضلة لديك فجأة؟",
+   "source": "Awf9D7vIgvE",
+   "source_channel": "The Infographics Show",
+   "category": "how-it-works",
+   "publish_at": "2026-11-15T21:43:00Z"
   }
  ],
  "fails": {
@@ -548,7 +566,7 @@
   },
   "hYPVXZLEqoY": {
    "views": 12,
-   "likes": 1
+   "likes": 2
   },
   "rXnuP5Jty1A": {
    "views": 8,
