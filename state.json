@@ -66,7 +66,8 @@
   "tZ8i1RxGSYM",
   "2QSkkhbl3v4",
   "8IsbKH-EsAY",
-  "EU-rZuJxdbw"
+  "EU-rZuJxdbw",
+  "6U6Z6pb6ewI"
  ],
  "published": [
   {
@@ -516,6 +517,14 @@
    "source_channel": "Tom Scott",
    "category": "history",
    "publish_at": "2026-11-16T18:49:00Z"
+  },
+  {
+   "video_id": "waCeI25jcq8",
+   "title": "أين تذهب الدهون عندما تفقد وزنك؟",
+   "source": "6U6Z6pb6ewI",
+   "source_channel": "Veritasium",
+   "category": "human-body",
+   "publish_at": "2026-11-16T21:07:00Z"
   }
  ],
  "fails": {
@@ -601,7 +610,7 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 14,
+   "views": 15,
    "likes": 2
   },
   "rXnuP5Jty1A": {
