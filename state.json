@@ -62,7 +62,10 @@
   "7S8mK7WSNZQ",
   "Kap7mRzr13w",
   "2cK8l5Yg5w8",
-  "Awf9D7vIgvE"
+  "Awf9D7vIgvE",
+  "tZ8i1RxGSYM",
+  "2QSkkhbl3v4",
+  "8IsbKH-EsAY"
  ],
  "published": [
   {
@@ -480,6 +483,30 @@
    "source_channel": "The Infographics Show",
    "category": "how-it-works",
    "publish_at": "2026-11-15T21:43:00Z"
+  },
+  {
+   "video_id": "UTDnyb8h3Ds",
+   "title": "سر أصل المياه على الأرض وهل يمكن أن تنفد فعلاً؟",
+   "source": "tZ8i1RxGSYM",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "earth",
+   "publish_at": "2026-11-16T08:16:00Z"
+  },
+  {
+   "video_id": "OJ1vnFEHwPU",
+   "title": "خدعة الرياضيات التي تخدع عقولنا دائما",
+   "source": "2QSkkhbl3v4",
+   "source_channel": "Veritasium",
+   "category": "how-it-works",
+   "publish_at": "2026-11-16T11:51:00Z"
+  },
+  {
+   "video_id": "vRlxwfAHoAY",
+   "title": "لماذا كانت الكتب ترتبط بالسلاسل الحديدية قديما؟",
+   "source": "8IsbKH-EsAY",
+   "source_channel": "Tom Scott",
+   "category": "history",
+   "publish_at": "2026-11-16T14:35:00Z"
   }
  ],
  "fails": {
@@ -501,7 +528,7 @@
    "likes": 0
   },
   "qjVOrYed5to": {
-   "views": 12,
+   "views": 16,
    "likes": 0
   },
   "-qNT3ExS5Wc": {
@@ -513,8 +540,8 @@
    "likes": 0
   },
   "9iGC_LXdYUw": {
-   "views": 9,
-   "likes": 0
+   "views": 13,
+   "likes": 1
   },
   "26wML5eiwZk": {
    "views": 4,
@@ -529,7 +556,7 @@
    "likes": 0
   },
   "TbQfmmiLTH8": {
-   "views": 19,
+   "views": 20,
    "likes": 0
   },
   "sG6rbsO0W2c": {
@@ -553,7 +580,7 @@
    "likes": 0
   },
   "6Dl0ierRZ8Y": {
-   "views": 73,
+   "views": 76,
    "likes": 0
   },
   "YCWB1S1bGhc": {
@@ -565,7 +592,7 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 12,
+   "views": 14,
    "likes": 2
   },
   "rXnuP5Jty1A": {
@@ -573,7 +600,7 @@
    "likes": 0
   },
   "igSlLGlvX_s": {
-   "views": 8,
+   "views": 9,
    "likes": 0
   },
   "5hp-xVxT56k": {
@@ -585,7 +612,7 @@
    "likes": 0
   },
   "fZMUrBqsm5A": {
-   "views": 4,
+   "views": 6,
    "likes": 0
   },
   "9he752MPOe0": {
@@ -605,7 +632,7 @@
    "likes": 1
   },
   "uDgG9TRJxNk": {
-   "views": 941,
+   "views": 946,
    "likes": 6
   },
   "XRh9NCTJEjI": {
@@ -614,6 +641,26 @@
   },
   "ECohT7Qe3EU": {
    "views": 0,
+   "likes": 0
+  },
+  "ypVxqzjZoqw": {
+   "views": 1006,
+   "likes": 6
+  },
+  "RJgVu7LYdtM": {
+   "views": 1042,
+   "likes": 8
+  },
+  "zv2Cjt4u56E": {
+   "views": 999,
+   "likes": 12
+  },
+  "jA4AaYi29L8": {
+   "views": 7,
+   "likes": 0
+  },
+  "iYhLejC8lZw": {
+   "views": 7,
    "likes": 0
   }
  }
