@@ -69,7 +69,10 @@
   "EU-rZuJxdbw",
   "6U6Z6pb6ewI",
   "gMur01WsXZU",
-  "wxLc-gFORPQ"
+  "wxLc-gFORPQ",
+  "2McJ8QpzSWo",
+  "uALjsKI-ceE",
+  "AQqVcdTH5bQ"
  ],
  "published": [
   {
@@ -543,13 +546,32 @@
    "source_channel": "Veritasium",
    "category": "physics",
    "publish_at": "2026-11-17T11:26:00Z"
+  },
+  {
+   "video_id": "-ft1YrJXmYI",
+   "title": "لماذا يعتبر سرطان القلب من أندر الأمراض في العالم؟",
+   "source": "uALjsKI-ceE",
+   "source_channel": "SciShow",
+   "category": "human-body",
+   "publish_at": "2026-11-17T14:44:00Z"
+  },
+  {
+   "video_id": "t_InIykU0Rk",
+   "title": "عندما كان الفن رياضة أولمبية تمنح ميداليات ذهبية",
+   "source": "AQqVcdTH5bQ",
+   "source_channel": "Tom Scott",
+   "category": "history",
+   "publish_at": "2026-11-17T18:35:00Z"
   }
  ],
  "fails": {
   "pZtU48TjxXg": 1,
   "IJSO-BL3pEU": 1,
   "QW_jlUn4gA8": 1,
-  "hPoJWjJ9Ao8": 2
+  "hPoJWjJ9Ao8": 2,
+  "T8y7ZIq4jXY": 1,
+  "QjhqB3tC1Ko": 1,
+  "PXbVn-f_wuM": 1
  },
  "stats": {
   "9BUkngYIljM": {
@@ -577,7 +599,7 @@
    "likes": 0
   },
   "9iGC_LXdYUw": {
-   "views": 15,
+   "views": 16,
    "likes": 1
   },
   "26wML5eiwZk": {
@@ -685,7 +707,7 @@
    "likes": 6
   },
   "RJgVu7LYdtM": {
-   "views": 1047,
+   "views": 1045,
    "likes": 8
   },
   "zv2Cjt4u56E": {
@@ -719,6 +741,10 @@
   "TF21XGJz5Ro": {
    "views": 2,
    "likes": 0
+  },
+  "a8MooodYenk": {
+   "views": 272,
+   "likes": 5
   }
  }
 }
