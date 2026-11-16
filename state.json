@@ -67,7 +67,9 @@
   "2QSkkhbl3v4",
   "8IsbKH-EsAY",
   "EU-rZuJxdbw",
-  "6U6Z6pb6ewI"
+  "6U6Z6pb6ewI",
+  "gMur01WsXZU",
+  "wxLc-gFORPQ"
  ],
  "published": [
   {
@@ -525,6 +527,22 @@
    "source_channel": "Veritasium",
    "category": "human-body",
    "publish_at": "2026-11-16T21:07:00Z"
+  },
+  {
+   "video_id": "MEtsnZruIho",
+   "title": "سر الحزام الناقل في قاع المحيط الأطلسي",
+   "source": "gMur01WsXZU",
+   "source_channel": "AsapSCIENCE",
+   "category": "earth",
+   "publish_at": "2026-11-17T08:03:00Z"
+  },
+  {
+   "video_id": "2dVyXomwxZg",
+   "title": "ظاهرة غريبة تتحدى سرعة الضوء وأزعجت أينشتاين!",
+   "source": "wxLc-gFORPQ",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-17T11:26:00Z"
   }
  ],
  "fails": {
@@ -542,11 +560,11 @@
    "likes": 0
   },
   "VQ1ZrcBM1lI": {
-   "views": 4,
+   "views": 6,
    "likes": 0
   },
   "qjVOrYed5to": {
-   "views": 16,
+   "views": 17,
    "likes": 0
   },
   "-qNT3ExS5Wc": {
@@ -558,7 +576,7 @@
    "likes": 0
   },
   "9iGC_LXdYUw": {
-   "views": 13,
+   "views": 15,
    "likes": 1
   },
   "26wML5eiwZk": {
@@ -574,7 +592,7 @@
    "likes": 0
   },
   "TbQfmmiLTH8": {
-   "views": 20,
+   "views": 21,
    "likes": 0
   },
   "sG6rbsO0W2c": {
@@ -582,7 +600,7 @@
    "likes": 0
   },
   "K1mR9cc6epE": {
-   "views": 13,
+   "views": 15,
    "likes": 1
   },
   "W_gaN6nr-uM": {
@@ -590,7 +608,7 @@
    "likes": 0
   },
   "-HVFkXcEAR8": {
-   "views": 13,
+   "views": 15,
    "likes": 0
   },
   "-wPBMBUqXtM": {
@@ -598,8 +616,8 @@
    "likes": 0
   },
   "6Dl0ierRZ8Y": {
-   "views": 76,
-   "likes": 0
+   "views": 77,
+   "likes": 1
   },
   "YCWB1S1bGhc": {
    "views": 1,
@@ -610,7 +628,7 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 15,
+   "views": 17,
    "likes": 2
   },
   "rXnuP5Jty1A": {
@@ -618,7 +636,7 @@
    "likes": 0
   },
   "igSlLGlvX_s": {
-   "views": 9,
+   "views": 10,
    "likes": 0
   },
   "5hp-xVxT56k": {
@@ -642,15 +660,15 @@
    "likes": 0
   },
   "2ia5_5OOCDA": {
-   "views": 863,
+   "views": 864,
    "likes": 5
   },
   "8kZSSp12ikY": {
-   "views": 34,
+   "views": 35,
    "likes": 1
   },
   "uDgG9TRJxNk": {
-   "views": 947,
+   "views": 951,
    "likes": 6
   },
   "XRh9NCTJEjI": {
@@ -666,19 +684,39 @@
    "likes": 6
   },
   "RJgVu7LYdtM": {
-   "views": 1042,
+   "views": 1047,
    "likes": 8
   },
   "zv2Cjt4u56E": {
-   "views": 999,
+   "views": 1005,
    "likes": 12
   },
   "jA4AaYi29L8": {
-   "views": 7,
+   "views": 9,
    "likes": 0
   },
   "iYhLejC8lZw": {
-   "views": 7,
+   "views": 8,
+   "likes": 0
+  },
+  "fWRpXh5qPYE": {
+   "views": 80,
+   "likes": 0
+  },
+  "Ymp0QJvKke8": {
+   "views": 147,
+   "likes": 2
+  },
+  "H6rmI9-F9E4": {
+   "views": 355,
+   "likes": 1
+  },
+  "9JTVvECOgGw": {
+   "views": 13,
+   "likes": 1
+  },
+  "TF21XGJz5Ro": {
+   "views": 2,
    "likes": 0
   }
  }
