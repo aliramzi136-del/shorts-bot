@@ -72,7 +72,9 @@
   "wxLc-gFORPQ",
   "2McJ8QpzSWo",
   "uALjsKI-ceE",
-  "AQqVcdTH5bQ"
+  "AQqVcdTH5bQ",
+  "Pwn8IrDeiwc",
+  "YrZyJuaBfKA"
  ],
  "published": [
   {
@@ -562,6 +564,22 @@
    "source_channel": "Tom Scott",
    "category": "history",
    "publish_at": "2026-11-17T18:35:00Z"
+  },
+  {
+   "video_id": "tS3FuGsb6Bk",
+   "title": "سر الرمال المتحركة: لماذا لا يمكنك الغرق فيها بالكامل؟",
+   "source": "Pwn8IrDeiwc",
+   "source_channel": "Tom Scott",
+   "category": "physics",
+   "publish_at": "2026-11-18T07:57:00Z"
+  },
+  {
+   "video_id": "w0I26lLFsGk",
+   "title": "كيف تستمع التلسكوبات العملاقة لأسرار الفضاء؟",
+   "source": "YrZyJuaBfKA",
+   "source_channel": "Tom Scott",
+   "category": "space",
+   "publish_at": "2026-11-18T11:07:00Z"
   }
  ],
  "fails": {
@@ -587,7 +605,7 @@
    "likes": 0
   },
   "qjVOrYed5to": {
-   "views": 17,
+   "views": 18,
    "likes": 0
   },
   "-qNT3ExS5Wc": {
@@ -639,7 +657,7 @@
    "likes": 0
   },
   "6Dl0ierRZ8Y": {
-   "views": 77,
+   "views": 78,
    "likes": 1
   },
   "YCWB1S1bGhc": {
@@ -651,7 +669,7 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 17,
+   "views": 19,
    "likes": 2
   },
   "rXnuP5Jty1A": {
@@ -667,7 +685,7 @@
    "likes": 0
   },
   "FYSBGJ6eQb8": {
-   "views": 11,
+   "views": 12,
    "likes": 0
   },
   "fZMUrBqsm5A": {
@@ -687,11 +705,11 @@
    "likes": 5
   },
   "8kZSSp12ikY": {
-   "views": 35,
+   "views": 37,
    "likes": 1
   },
   "uDgG9TRJxNk": {
-   "views": 951,
+   "views": 954,
    "likes": 6
   },
   "XRh9NCTJEjI": {
@@ -699,23 +717,23 @@
    "likes": 0
   },
   "ECohT7Qe3EU": {
-   "views": 0,
+   "views": 1,
    "likes": 0
   },
   "ypVxqzjZoqw": {
-   "views": 1004,
+   "views": 1010,
    "likes": 6
   },
   "RJgVu7LYdtM": {
-   "views": 1045,
+   "views": 1046,
    "likes": 8
   },
   "zv2Cjt4u56E": {
-   "views": 1003,
+   "views": 1005,
    "likes": 12
   },
   "jA4AaYi29L8": {
-   "views": 9,
+   "views": 11,
    "likes": 0
   },
   "iYhLejC8lZw": {
@@ -723,19 +741,19 @@
    "likes": 0
   },
   "fWRpXh5qPYE": {
-   "views": 80,
+   "views": 81,
    "likes": 0
   },
   "Ymp0QJvKke8": {
-   "views": 150,
+   "views": 151,
    "likes": 2
   },
   "H6rmI9-F9E4": {
-   "views": 355,
+   "views": 356,
    "likes": 1
   },
   "9JTVvECOgGw": {
-   "views": 13,
+   "views": 17,
    "likes": 1
   },
   "TF21XGJz5Ro": {
@@ -743,8 +761,24 @@
    "likes": 0
   },
   "a8MooodYenk": {
-   "views": 272,
+   "views": 273,
    "likes": 5
+  },
+  "FtrlHDo7xlM": {
+   "views": 89,
+   "likes": 0
+  },
+  "75KCUdxZMiQ": {
+   "views": 133,
+   "likes": 0
+  },
+  "MD8Jf4vvN3Y": {
+   "views": 4,
+   "likes": 0
+  },
+  "gGqSUw8CEVI": {
+   "views": 23,
+   "likes": 0
   }
  }
 }
