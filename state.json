@@ -74,7 +74,9 @@
   "uALjsKI-ceE",
   "AQqVcdTH5bQ",
   "Pwn8IrDeiwc",
-  "YrZyJuaBfKA"
+  "YrZyJuaBfKA",
+  "blubg9l8AVc",
+  "WGia1R3xacM"
  ],
  "published": [
   {
@@ -580,6 +582,22 @@
    "source_channel": "Tom Scott",
    "category": "space",
    "publish_at": "2026-11-18T11:07:00Z"
+  },
+  {
+   "video_id": "jFxbex6dCIc",
+   "title": "كيف دمرت الفيزياء قلاع العصور الوسطى؟",
+   "source": "blubg9l8AVc",
+   "source_channel": "Tom Scott",
+   "category": "how-it-works",
+   "publish_at": "2026-11-18T14:55:00Z"
+  },
+  {
+   "video_id": "LMhLVZpaYvo",
+   "title": "سر وصول صوت الأجراس العملاقة لمسافات بعيدة",
+   "source": "WGia1R3xacM",
+   "source_channel": "Tom Scott",
+   "category": "physics",
+   "publish_at": "2026-11-18T18:27:00Z"
   }
  ],
  "fails": {
@@ -669,7 +687,7 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 19,
+   "views": 20,
    "likes": 2
   },
   "rXnuP5Jty1A": {
