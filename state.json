@@ -77,7 +77,8 @@
   "YrZyJuaBfKA",
   "blubg9l8AVc",
   "WGia1R3xacM",
-  "hCZwH5CSlEY"
+  "hCZwH5CSlEY",
+  "T8y7ZIq4jXY"
  ],
  "published": [
   {
@@ -599,6 +600,14 @@
    "source_channel": "Tom Scott",
    "category": "physics",
    "publish_at": "2026-11-18T18:27:00Z"
+  },
+  {
+   "video_id": "rqVGilwVbqw",
+   "title": "كيف هزم الصقيع الروسي جيش نابليون عام 1812؟",
+   "source": "T8y7ZIq4jXY",
+   "source_channel": "RealLifeLore",
+   "category": "history",
+   "publish_at": "2026-11-18T21:42:00Z"
   }
  ],
  "fails": {
@@ -736,7 +745,7 @@
    "likes": 0
   },
   "ECohT7Qe3EU": {
-   "views": 2,
+   "views": 4,
    "likes": 0
   },
   "ypVxqzjZoqw": {
@@ -760,7 +769,7 @@
    "likes": 0
   },
   "fWRpXh5qPYE": {
-   "views": 81,
+   "views": 82,
    "likes": 0
   },
   "Ymp0QJvKke8": {
@@ -796,8 +805,12 @@
    "likes": 0
   },
   "gGqSUw8CEVI": {
-   "views": 23,
+   "views": 24,
    "likes": 0
+  },
+  "evinYuU3Z1Q": {
+   "views": 894,
+   "likes": 16
   }
  }
 }
