@@ -78,7 +78,13 @@
   "blubg9l8AVc",
   "WGia1R3xacM",
   "hCZwH5CSlEY",
-  "T8y7ZIq4jXY"
+  "T8y7ZIq4jXY",
+  "QjhqB3tC1Ko",
+  "U_UoAZrOTNU",
+  "PXbVn-f_wuM",
+  "fEjvSbI_PT4",
+  "sQjWFvpTg7Y",
+  "0DYYdcGrbMM"
  ],
  "published": [
   {
@@ -608,6 +614,46 @@
    "source_channel": "RealLifeLore",
    "category": "history",
    "publish_at": "2026-11-18T21:42:00Z"
+  },
+  {
+   "video_id": "K0WF4L8jhvQ",
+   "title": "لماذا تعد شبه جزيرة القرم نقطة صراع استراتيجية؟",
+   "source": "QjhqB3tC1Ko",
+   "source_channel": "RealLifeLore",
+   "category": "history",
+   "publish_at": "2026-11-19T08:19:00Z"
+  },
+  {
+   "video_id": "Dvi1FfTOfic",
+   "title": "لماذا لا تلمس أبدًا أي شيء في الكون؟",
+   "source": "U_UoAZrOTNU",
+   "source_channel": "RealLifeLore",
+   "category": "physics",
+   "publish_at": "2026-11-19T11:25:00Z"
+  },
+  {
+   "video_id": "Gts2XY0GqfY",
+   "title": "لماذا نتردد أحيانا في اتخاذ أبسط القرارات؟",
+   "source": "PXbVn-f_wuM",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-19T14:51:00Z"
+  },
+  {
+   "video_id": "-1pxPZ4rBjo",
+   "title": "هل الموت لحظة واحدة أم عملية طويلة؟",
+   "source": "fEjvSbI_PT4",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-19T18:48:00Z"
+  },
+  {
+   "video_id": "lDsNbdFZAYw",
+   "title": "هل يتكرر التاريخ البشري في دورات زمنية متشابهة؟",
+   "source": "0DYYdcGrbMM",
+   "source_channel": "The Infographics Show",
+   "category": "history",
+   "publish_at": "2026-11-19T21:47:00Z"
   }
  ],
  "fails": {
@@ -685,7 +731,7 @@
    "likes": 0
   },
   "6Dl0ierRZ8Y": {
-   "views": 79,
+   "views": 82,
    "likes": 2
   },
   "YCWB1S1bGhc": {
@@ -697,15 +743,15 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 20,
+   "views": 22,
    "likes": 2
   },
   "rXnuP5Jty1A": {
-   "views": 8,
+   "views": 9,
    "likes": 0
   },
   "igSlLGlvX_s": {
-   "views": 10,
+   "views": 11,
    "likes": 0
   },
   "5hp-xVxT56k": {
@@ -721,7 +767,7 @@
    "likes": 0
   },
   "9he752MPOe0": {
-   "views": 1,
+   "views": 0,
    "likes": 0
   },
   "we3fe0qpoI8": {
@@ -737,7 +783,7 @@
    "likes": 1
   },
   "uDgG9TRJxNk": {
-   "views": 954,
+   "views": 955,
    "likes": 6
   },
   "XRh9NCTJEjI": {
@@ -749,11 +795,11 @@
    "likes": 0
   },
   "ypVxqzjZoqw": {
-   "views": 1010,
+   "views": 1011,
    "likes": 6
   },
   "RJgVu7LYdtM": {
-   "views": 1046,
+   "views": 1051,
    "likes": 8
   },
   "zv2Cjt4u56E": {
@@ -761,7 +807,7 @@
    "likes": 12
   },
   "jA4AaYi29L8": {
-   "views": 11,
+   "views": 12,
    "likes": 0
   },
   "iYhLejC8lZw": {
@@ -769,15 +815,15 @@
    "likes": 0
   },
   "fWRpXh5qPYE": {
-   "views": 82,
+   "views": 83,
    "likes": 0
   },
   "Ymp0QJvKke8": {
-   "views": 151,
+   "views": 150,
    "likes": 2
   },
   "H6rmI9-F9E4": {
-   "views": 356,
+   "views": 355,
    "likes": 1
   },
   "9JTVvECOgGw": {
@@ -789,7 +835,7 @@
    "likes": 0
   },
   "a8MooodYenk": {
-   "views": 273,
+   "views": 274,
    "likes": 5
   },
   "FtrlHDo7xlM": {
@@ -797,20 +843,36 @@
    "likes": 0
   },
   "75KCUdxZMiQ": {
-   "views": 133,
+   "views": 134,
    "likes": 0
   },
   "MD8Jf4vvN3Y": {
-   "views": 4,
+   "views": 12,
    "likes": 0
   },
   "gGqSUw8CEVI": {
-   "views": 24,
-   "likes": 0
+   "views": 30,
+   "likes": 1
   },
   "evinYuU3Z1Q": {
    "views": 894,
    "likes": 16
+  },
+  "mCT-EWUa7cQ": {
+   "views": 121,
+   "likes": 2
+  },
+  "byd_eHW-xe0": {
+   "views": 77,
+   "likes": 0
+  },
+  "6FqUN5s6_yI": {
+   "views": 9,
+   "likes": 0
+  },
+  "uW135iKyx6o": {
+   "views": 1,
+   "likes": 0
   }
  }
 }
