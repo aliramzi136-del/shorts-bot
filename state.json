@@ -84,7 +84,10 @@
   "PXbVn-f_wuM",
   "fEjvSbI_PT4",
   "sQjWFvpTg7Y",
-  "0DYYdcGrbMM"
+  "0DYYdcGrbMM",
+  "YqAI0oqtt7w",
+  "Yhg-DtVUO4A",
+  "hiIIGMeMEuE"
  ],
  "published": [
   {
@@ -654,6 +657,30 @@
    "source_channel": "The Infographics Show",
    "category": "history",
    "publish_at": "2026-11-19T21:47:00Z"
+  },
+  {
+   "video_id": "gMyi2fk9f0U",
+   "title": "ماذا يوجد حقا في الغبار الذي يملأ منزلك؟",
+   "source": "YqAI0oqtt7w",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "earth",
+   "publish_at": "2026-11-20T08:18:00Z"
+  },
+  {
+   "video_id": "nR9Ngoiq3B8",
+   "title": "لماذا تموت النجوم في الكون؟",
+   "source": "Yhg-DtVUO4A",
+   "source_channel": "Vsauce",
+   "category": "space",
+   "publish_at": "2026-11-20T11:23:00Z"
+  },
+  {
+   "video_id": "25o_6qvbji8",
+   "title": "ماذا لو توقفنا عن النوم نهائيا؟",
+   "source": "hiIIGMeMEuE",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-20T15:23:00Z"
   }
  ],
  "fails": {
@@ -707,7 +734,7 @@
    "likes": 0
   },
   "TbQfmmiLTH8": {
-   "views": 21,
+   "views": 22,
    "likes": 0
   },
   "sG6rbsO0W2c": {
@@ -743,7 +770,7 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 22,
+   "views": 24,
    "likes": 2
   },
   "rXnuP5Jty1A": {
@@ -779,11 +806,11 @@
    "likes": 5
   },
   "8kZSSp12ikY": {
-   "views": 37,
+   "views": 38,
    "likes": 1
   },
   "uDgG9TRJxNk": {
-   "views": 955,
+   "views": 956,
    "likes": 6
   },
   "XRh9NCTJEjI": {
@@ -795,11 +822,11 @@
    "likes": 0
   },
   "ypVxqzjZoqw": {
-   "views": 1011,
+   "views": 1016,
    "likes": 6
   },
   "RJgVu7LYdtM": {
-   "views": 1051,
+   "views": 1054,
    "likes": 8
   },
   "zv2Cjt4u56E": {
@@ -811,11 +838,11 @@
    "likes": 0
   },
   "iYhLejC8lZw": {
-   "views": 8,
+   "views": 9,
    "likes": 0
   },
   "fWRpXh5qPYE": {
-   "views": 83,
+   "views": 88,
    "likes": 0
   },
   "Ymp0QJvKke8": {
@@ -827,19 +854,19 @@
    "likes": 1
   },
   "9JTVvECOgGw": {
-   "views": 18,
+   "views": 21,
    "likes": 1
   },
   "TF21XGJz5Ro": {
-   "views": 2,
+   "views": 5,
    "likes": 0
   },
   "a8MooodYenk": {
-   "views": 274,
+   "views": 277,
    "likes": 5
   },
   "FtrlHDo7xlM": {
-   "views": 89,
+   "views": 88,
    "likes": 0
   },
   "75KCUdxZMiQ": {
@@ -847,31 +874,51 @@
    "likes": 0
   },
   "MD8Jf4vvN3Y": {
-   "views": 12,
+   "views": 13,
    "likes": 0
   },
   "gGqSUw8CEVI": {
-   "views": 30,
+   "views": 35,
    "likes": 1
   },
   "evinYuU3Z1Q": {
-   "views": 894,
+   "views": 897,
    "likes": 16
   },
   "mCT-EWUa7cQ": {
-   "views": 122,
+   "views": 127,
    "likes": 2
   },
   "byd_eHW-xe0": {
-   "views": 80,
+   "views": 83,
    "likes": 0
   },
   "6FqUN5s6_yI": {
-   "views": 10,
+   "views": 14,
    "likes": 0
   },
   "uW135iKyx6o": {
-   "views": 1,
+   "views": 3,
+   "likes": 0
+  },
+  "UTDnyb8h3Ds": {
+   "views": 888,
+   "likes": 13
+  },
+  "OJ1vnFEHwPU": {
+   "views": 222,
+   "likes": 5
+  },
+  "vRlxwfAHoAY": {
+   "views": 100,
+   "likes": 0
+  },
+  "hAykxAL2iBc": {
+   "views": 12,
+   "likes": 0
+  },
+  "waCeI25jcq8": {
+   "views": 3,
    "likes": 0
   }
  }
