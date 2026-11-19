@@ -87,7 +87,9 @@
   "0DYYdcGrbMM",
   "YqAI0oqtt7w",
   "Yhg-DtVUO4A",
-  "hiIIGMeMEuE"
+  "hiIIGMeMEuE",
+  "-QoNbWhZClM",
+  "oNTaHYXQ4MM"
  ],
  "published": [
   {
@@ -681,6 +683,14 @@
    "source_channel": "Kurzgesagt – In a Nutshell",
    "category": "human-body",
    "publish_at": "2026-11-20T15:23:00Z"
+  },
+  {
+   "video_id": "XOhCFRSgDv4",
+   "title": "عضو بشري يعيد بناء نفسه كل شهر!",
+   "source": "oNTaHYXQ4MM",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-20T18:07:00Z"
   }
  ],
  "fails": {
@@ -890,7 +900,7 @@
    "likes": 2
   },
   "byd_eHW-xe0": {
-   "views": 83,
+   "views": 82,
    "likes": 0
   },
   "6FqUN5s6_yI": {
@@ -918,7 +928,7 @@
    "likes": 0
   },
   "waCeI25jcq8": {
-   "views": 3,
+   "views": 2,
    "likes": 0
   }
  }
