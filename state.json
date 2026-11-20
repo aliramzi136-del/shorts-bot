@@ -92,7 +92,9 @@
   "oNTaHYXQ4MM",
   "YSBh_TPIwHY",
   "VkYWW95eSLs",
-  "EqkRVbaBxtg"
+  "EqkRVbaBxtg",
+  "sdORrH7d2ug",
+  "IvtsVHzMLwY"
  ],
  "published": [
   {
@@ -718,6 +720,14 @@
    "source_channel": "Kurzgesagt – In a Nutshell",
    "category": "physics",
    "publish_at": "2026-11-21T11:25:00Z"
+  },
+  {
+   "video_id": "MZliCTuybzU",
+   "title": "ماذا يفعل التوتر الشديد داخل دماغك؟",
+   "source": "IvtsVHzMLwY",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-21T15:08:00Z"
   }
  ],
  "fails": {
@@ -871,7 +881,7 @@
    "likes": 12
   },
   "jA4AaYi29L8": {
-   "views": 12,
+   "views": 13,
    "likes": 0
   },
   "iYhLejC8lZw": {
