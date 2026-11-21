@@ -99,7 +99,11 @@
   "JjhyYOKmFGM",
   "LDloLvb3yno",
   "j16_OPRTT4g",
-  "FCaTFLdtsco"
+  "FCaTFLdtsco",
+  "sU3DYEJ1br0",
+  "LwdSfdEkXPA",
+  "YIrFd4uVwd4",
+  "2o4IUPNYAK0"
  ],
  "published": [
   {
@@ -773,6 +777,22 @@
    "source_channel": "AsapSCIENCE",
    "category": "earth",
    "publish_at": "2026-11-22T15:11:00Z"
+  },
+  {
+   "video_id": "IvQjCKzUKIk",
+   "title": "أصوات مرعبة سجلها الجيش في الغابات! ما هي؟",
+   "source": "sU3DYEJ1br0",
+   "source_channel": "Vsauce",
+   "category": "history",
+   "publish_at": "2026-11-22T18:31:00Z"
+  },
+  {
+   "video_id": "sslDRdSsvco",
+   "title": "حقائق مذهلة عن قلب الإنسان",
+   "source": "2o4IUPNYAK0",
+   "source_channel": "RealLifeLore",
+   "category": "human-body",
+   "publish_at": "2026-11-22T21:39:00Z"
   }
  ],
  "fails": {
@@ -930,7 +950,7 @@
    "likes": 0
   },
   "iYhLejC8lZw": {
-   "views": 10,
+   "views": 11,
    "likes": 0
   },
   "fWRpXh5qPYE": {
@@ -1018,7 +1038,7 @@
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 68,
+   "views": 69,
    "likes": 0
   },
   "-ft1YrJXmYI": {
