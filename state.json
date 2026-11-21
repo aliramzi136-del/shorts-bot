@@ -97,7 +97,8 @@
   "IvtsVHzMLwY",
   "eOZblHcqkvo",
   "JjhyYOKmFGM",
-  "LDloLvb3yno"
+  "LDloLvb3yno",
+  "j16_OPRTT4g"
  ],
  "published": [
   {
@@ -755,6 +756,14 @@
    "source_channel": "Veritasium",
    "category": "how-it-works",
    "publish_at": "2026-11-22T08:06:00Z"
+  },
+  {
+   "video_id": "NDPLn_9fWI4",
+   "title": "كيف ينسخ الذكاء الاصطناعي صوتك في ثوان؟",
+   "source": "j16_OPRTT4g",
+   "source_channel": "The Infographics Show",
+   "category": "how-it-works",
+   "publish_at": "2026-11-22T11:23:00Z"
   }
  ],
  "fails": {
@@ -1024,7 +1033,7 @@
    "likes": 5
   },
   "LMhLVZpaYvo": {
-   "views": 4,
+   "views": 5,
    "likes": 0
   },
   "rqVGilwVbqw": {
