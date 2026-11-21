@@ -96,7 +96,8 @@
   "sdORrH7d2ug",
   "IvtsVHzMLwY",
   "eOZblHcqkvo",
-  "JjhyYOKmFGM"
+  "JjhyYOKmFGM",
+  "LDloLvb3yno"
  ],
  "published": [
   {
@@ -746,6 +747,14 @@
    "source_channel": "RealLifeLore",
    "category": "animals",
    "publish_at": "2026-11-21T21:36:00Z"
+  },
+  {
+   "video_id": "j8n_oe0R3NA",
+   "title": "سر قطرة القصدير التي تصنع معالجات العالم",
+   "source": "LDloLvb3yno",
+   "source_channel": "Veritasium",
+   "category": "how-it-works",
+   "publish_at": "2026-11-22T08:06:00Z"
   }
  ],
  "fails": {
@@ -815,7 +824,7 @@
    "likes": 0
   },
   "-HVFkXcEAR8": {
-   "views": 16,
+   "views": 18,
    "likes": 0
   },
   "-wPBMBUqXtM": {
@@ -823,7 +832,7 @@
    "likes": 0
   },
   "6Dl0ierRZ8Y": {
-   "views": 82,
+   "views": 83,
    "likes": 2
   },
   "YCWB1S1bGhc": {
@@ -855,7 +864,7 @@
    "likes": 0
   },
   "fZMUrBqsm5A": {
-   "views": 6,
+   "views": 7,
    "likes": 0
   },
   "9he752MPOe0": {
@@ -875,7 +884,7 @@
    "likes": 1
   },
   "uDgG9TRJxNk": {
-   "views": 956,
+   "views": 957,
    "likes": 6
   },
   "XRh9NCTJEjI": {
@@ -887,11 +896,11 @@
    "likes": 0
   },
   "ypVxqzjZoqw": {
-   "views": 1017,
+   "views": 1018,
    "likes": 6
   },
   "RJgVu7LYdtM": {
-   "views": 1054,
+   "views": 1055,
    "likes": 8
   },
   "zv2Cjt4u56E": {
@@ -899,7 +908,7 @@
    "likes": 12
   },
   "jA4AaYi29L8": {
-   "views": 14,
+   "views": 18,
    "likes": 0
   },
   "iYhLejC8lZw": {
@@ -907,11 +916,11 @@
    "likes": 0
   },
   "fWRpXh5qPYE": {
-   "views": 91,
+   "views": 92,
    "likes": 0
   },
   "Ymp0QJvKke8": {
-   "views": 153,
+   "views": 156,
    "likes": 2
   },
   "H6rmI9-F9E4": {
@@ -943,7 +952,7 @@
    "likes": 0
   },
   "gGqSUw8CEVI": {
-   "views": 45,
+   "views": 46,
    "likes": 1
   },
   "evinYuU3Z1Q": {
@@ -955,7 +964,7 @@
    "likes": 2
   },
   "byd_eHW-xe0": {
-   "views": 91,
+   "views": 93,
    "likes": 0
   },
   "6FqUN5s6_yI": {
@@ -967,11 +976,11 @@
    "likes": 0
   },
   "UTDnyb8h3Ds": {
-   "views": 896,
+   "views": 897,
    "likes": 13
   },
   "OJ1vnFEHwPU": {
-   "views": 222,
+   "views": 223,
    "likes": 5
   },
   "vRlxwfAHoAY": {
@@ -991,11 +1000,11 @@
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 54,
+   "views": 67,
    "likes": 0
   },
   "-ft1YrJXmYI": {
-   "views": 416,
+   "views": 419,
    "likes": 6
   },
   "t_InIykU0Rk": {
@@ -1003,8 +1012,24 @@
    "likes": 0
   },
   "tS3FuGsb6Bk": {
-   "views": 952,
+   "views": 955,
    "likes": 7
+  },
+  "w0I26lLFsGk": {
+   "views": 809,
+   "likes": 5
+  },
+  "jFxbex6dCIc": {
+   "views": 409,
+   "likes": 5
+  },
+  "LMhLVZpaYvo": {
+   "views": 4,
+   "likes": 0
+  },
+  "rqVGilwVbqw": {
+   "views": 5,
+   "likes": 0
   }
  }
 }
