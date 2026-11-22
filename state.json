@@ -103,7 +103,11 @@
   "sU3DYEJ1br0",
   "LwdSfdEkXPA",
   "YIrFd4uVwd4",
-  "2o4IUPNYAK0"
+  "2o4IUPNYAK0",
+  "nAA_4TxqWTE",
+  "V14RCK_QiG0",
+  "C45inxl6U10",
+  "uXuQF_PPg5U"
  ],
  "published": [
   {
@@ -793,6 +797,38 @@
    "source_channel": "RealLifeLore",
    "category": "human-body",
    "publish_at": "2026-11-22T21:39:00Z"
+  },
+  {
+   "video_id": "9dpYbVZau9w",
+   "title": "سر الألوان الغريبة التي تراها عند إغلاق عينيك",
+   "source": "nAA_4TxqWTE",
+   "source_channel": "Vsauce",
+   "category": "human-body",
+   "publish_at": "2026-11-23T08:08:00Z"
+  },
+  {
+   "video_id": "umOrattVtWg",
+   "title": "كيف تطير الطائرات لأكثر من ١٩ ساعة متواصلة؟",
+   "source": "V14RCK_QiG0",
+   "source_channel": "RealLifeLore",
+   "category": "how-it-works",
+   "publish_at": "2026-11-23T11:44:00Z"
+  },
+  {
+   "video_id": "sR5St6YFUKA",
+   "title": "لماذا لا تلتهمنا الثقوب السوداء في الفضاء؟",
+   "source": "C45inxl6U10",
+   "source_channel": "Vsauce",
+   "category": "space",
+   "publish_at": "2026-11-23T15:02:00Z"
+  },
+  {
+   "video_id": "WSsBMI0rYe4",
+   "title": "هل العشوائية مجرد وهم في الكون؟",
+   "source": "uXuQF_PPg5U",
+   "source_channel": "Veritasium",
+   "category": "physics",
+   "publish_at": "2026-11-23T18:47:00Z"
   }
  ],
  "fails": {
@@ -946,7 +982,7 @@
    "likes": 12
   },
   "jA4AaYi29L8": {
-   "views": 18,
+   "views": 19,
    "likes": 0
   },
   "iYhLejC8lZw": {
@@ -954,11 +990,11 @@
    "likes": 0
   },
   "fWRpXh5qPYE": {
-   "views": 92,
+   "views": 100,
    "likes": 0
   },
   "Ymp0QJvKke8": {
-   "views": 156,
+   "views": 157,
    "likes": 2
   },
   "H6rmI9-F9E4": {
@@ -966,11 +1002,11 @@
    "likes": 1
   },
   "9JTVvECOgGw": {
-   "views": 23,
+   "views": 24,
    "likes": 1
   },
   "TF21XGJz5Ro": {
-   "views": 6,
+   "views": 7,
    "likes": 0
   },
   "a8MooodYenk": {
@@ -986,15 +1022,15 @@
    "likes": 0
   },
   "MD8Jf4vvN3Y": {
-   "views": 14,
+   "views": 19,
    "likes": 0
   },
   "gGqSUw8CEVI": {
-   "views": 46,
+   "views": 52,
    "likes": 1
   },
   "evinYuU3Z1Q": {
-   "views": 896,
+   "views": 897,
    "likes": 16
   },
   "mCT-EWUa7cQ": {
@@ -1002,19 +1038,19 @@
    "likes": 2
   },
   "byd_eHW-xe0": {
-   "views": 93,
+   "views": 100,
    "likes": 0
   },
   "6FqUN5s6_yI": {
-   "views": 20,
+   "views": 21,
    "likes": 0
   },
   "uW135iKyx6o": {
-   "views": 1,
+   "views": 2,
    "likes": 0
   },
   "UTDnyb8h3Ds": {
-   "views": 897,
+   "views": 899,
    "likes": 13
   },
   "OJ1vnFEHwPU": {
@@ -1022,11 +1058,11 @@
    "likes": 5
   },
   "vRlxwfAHoAY": {
-   "views": 102,
+   "views": 104,
    "likes": 0
   },
   "hAykxAL2iBc": {
-   "views": 14,
+   "views": 15,
    "likes": 0
   },
   "waCeI25jcq8": {
@@ -1038,11 +1074,11 @@
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 69,
+   "views": 71,
    "likes": 0
   },
   "-ft1YrJXmYI": {
-   "views": 419,
+   "views": 418,
    "likes": 6
   },
   "t_InIykU0Rk": {
@@ -1050,23 +1086,43 @@
    "likes": 0
   },
   "tS3FuGsb6Bk": {
-   "views": 955,
+   "views": 956,
    "likes": 7
   },
   "w0I26lLFsGk": {
-   "views": 809,
+   "views": 810,
    "likes": 5
   },
   "jFxbex6dCIc": {
-   "views": 409,
+   "views": 407,
    "likes": 5
   },
   "LMhLVZpaYvo": {
-   "views": 5,
+   "views": 6,
    "likes": 0
   },
   "rqVGilwVbqw": {
    "views": 5,
+   "likes": 0
+  },
+  "K0WF4L8jhvQ": {
+   "views": 101,
+   "likes": 0
+  },
+  "Dvi1FfTOfic": {
+   "views": 901,
+   "likes": 10
+  },
+  "Gts2XY0GqfY": {
+   "views": 950,
+   "likes": 8
+  },
+  "-1pxPZ4rBjo": {
+   "views": 80,
+   "likes": 1
+  },
+  "lDsNbdFZAYw": {
+   "views": 2,
    "likes": 0
   }
  }
