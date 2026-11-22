@@ -107,7 +107,8 @@
   "nAA_4TxqWTE",
   "V14RCK_QiG0",
   "C45inxl6U10",
-  "uXuQF_PPg5U"
+  "uXuQF_PPg5U",
+  "nEBcD6sFDpY"
  ],
  "published": [
   {
@@ -829,6 +830,14 @@
    "source_channel": "Veritasium",
    "category": "physics",
    "publish_at": "2026-11-23T18:47:00Z"
+  },
+  {
+   "video_id": "gtC2Xi30Uqo",
+   "title": "لماذا بحر قزوين ليس بحراً حقاً؟",
+   "source": "nEBcD6sFDpY",
+   "source_channel": "RealLifeLore",
+   "category": "earth",
+   "publish_at": "2026-11-23T21:53:00Z"
   }
  ],
  "fails": {
@@ -1042,7 +1051,7 @@
    "likes": 0
   },
   "6FqUN5s6_yI": {
-   "views": 21,
+   "views": 23,
    "likes": 0
   },
   "uW135iKyx6o": {
