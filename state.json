@@ -108,7 +108,8 @@
   "V14RCK_QiG0",
   "C45inxl6U10",
   "uXuQF_PPg5U",
-  "nEBcD6sFDpY"
+  "nEBcD6sFDpY",
+  "Gf_5iqKPbxY"
  ],
  "published": [
   {
@@ -838,6 +839,14 @@
    "source_channel": "RealLifeLore",
    "category": "earth",
    "publish_at": "2026-11-23T21:53:00Z"
+  },
+  {
+   "video_id": "XwG5G9kTvRs",
+   "title": "مصادفة رياضية غريبة تصدم العقول",
+   "source": "Gf_5iqKPbxY",
+   "source_channel": "Vsauce",
+   "category": "physics",
+   "publish_at": "2026-11-24T07:56:00Z"
   }
  ],
  "fails": {
@@ -991,7 +1000,7 @@
    "likes": 12
   },
   "jA4AaYi29L8": {
-   "views": 19,
+   "views": 20,
    "likes": 0
   },
   "iYhLejC8lZw": {
@@ -999,7 +1008,7 @@
    "likes": 0
   },
   "fWRpXh5qPYE": {
-   "views": 100,
+   "views": 105,
    "likes": 0
   },
   "Ymp0QJvKke8": {
@@ -1019,7 +1028,7 @@
    "likes": 0
   },
   "a8MooodYenk": {
-   "views": 283,
+   "views": 284,
    "likes": 5
   },
   "FtrlHDo7xlM": {
@@ -1043,15 +1052,15 @@
    "likes": 16
   },
   "mCT-EWUa7cQ": {
-   "views": 127,
+   "views": 128,
    "likes": 2
   },
   "byd_eHW-xe0": {
-   "views": 100,
+   "views": 101,
    "likes": 0
   },
   "6FqUN5s6_yI": {
-   "views": 23,
+   "views": 25,
    "likes": 0
   },
   "uW135iKyx6o": {
@@ -1059,7 +1068,7 @@
    "likes": 0
   },
   "UTDnyb8h3Ds": {
-   "views": 899,
+   "views": 900,
    "likes": 13
   },
   "OJ1vnFEHwPU": {
@@ -1067,7 +1076,7 @@
    "likes": 5
   },
   "vRlxwfAHoAY": {
-   "views": 104,
+   "views": 106,
    "likes": 0
   },
   "hAykxAL2iBc": {
@@ -1083,7 +1092,7 @@
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 72,
+   "views": 73,
    "likes": 0
   },
   "-ft1YrJXmYI": {
@@ -1091,15 +1100,15 @@
    "likes": 6
   },
   "t_InIykU0Rk": {
-   "views": 5,
+   "views": 6,
    "likes": 0
   },
   "tS3FuGsb6Bk": {
-   "views": 956,
+   "views": 958,
    "likes": 7
   },
   "w0I26lLFsGk": {
-   "views": 810,
+   "views": 811,
    "likes": 5
   },
   "jFxbex6dCIc": {
@@ -1119,19 +1128,39 @@
    "likes": 0
   },
   "Dvi1FfTOfic": {
-   "views": 901,
+   "views": 905,
    "likes": 10
   },
   "Gts2XY0GqfY": {
-   "views": 950,
+   "views": 947,
    "likes": 9
   },
   "-1pxPZ4rBjo": {
-   "views": 82,
+   "views": 85,
    "likes": 1
   },
   "lDsNbdFZAYw": {
-   "views": 2,
+   "views": 1,
+   "likes": 0
+  },
+  "gMyi2fk9f0U": {
+   "views": 866,
+   "likes": 3
+  },
+  "nR9Ngoiq3B8": {
+   "views": 356,
+   "likes": 2
+  },
+  "25o_6qvbji8": {
+   "views": 868,
+   "likes": 2
+  },
+  "XOhCFRSgDv4": {
+   "views": 7,
+   "likes": 0
+  },
+  "0WnUPhdejHY": {
+   "views": 3,
    "likes": 0
   }
  }
