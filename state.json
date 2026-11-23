@@ -109,7 +109,12 @@
   "C45inxl6U10",
   "uXuQF_PPg5U",
   "nEBcD6sFDpY",
-  "Gf_5iqKPbxY"
+  "Gf_5iqKPbxY",
+  "1nVwqDL3XCI",
+  "dG7pemDgwmc",
+  "axILrr1GgMs",
+  "ZPu3kezlC08",
+  "_G5GzEbHdlc"
  ],
  "published": [
   {
@@ -847,6 +852,38 @@
    "source_channel": "Vsauce",
    "category": "physics",
    "publish_at": "2026-11-24T07:56:00Z"
+  },
+  {
+   "video_id": "D0hew1ueyI4",
+   "title": "كيف يخدع الذكاء الاصطناعي الدماغ البشري؟",
+   "source": "1nVwqDL3XCI",
+   "source_channel": "SciShow",
+   "category": "human-body",
+   "publish_at": "2026-11-24T11:27:00Z"
+  },
+  {
+   "video_id": "LJfHZTdi2Gk",
+   "title": "ظاهرة جاماي فو عندما يصبح المألوف غريبا",
+   "source": "axILrr1GgMs",
+   "source_channel": "Vsauce",
+   "category": "human-body",
+   "publish_at": "2026-11-24T15:10:00Z"
+  },
+  {
+   "video_id": "OtsnmYrr_3s",
+   "title": "سر المضائق البحرية التي تتحكم في اقتصاد العالم",
+   "source": "ZPu3kezlC08",
+   "source_channel": "RealLifeLore",
+   "category": "earth",
+   "publish_at": "2026-11-24T18:43:00Z"
+  },
+  {
+   "video_id": "9gMswTmSXIE",
+   "title": "لماذا يمتلك الرجال حلمات؟ السر العلمي",
+   "source": "_G5GzEbHdlc",
+   "source_channel": "AsapSCIENCE",
+   "category": "human-body",
+   "publish_at": "2026-11-24T21:34:00Z"
   }
  ],
  "fails": {
@@ -1092,7 +1129,7 @@
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 73,
+   "views": 74,
    "likes": 0
   },
   "-ft1YrJXmYI": {
