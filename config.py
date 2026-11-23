@@ -44,3 +44,16 @@ LEARN_MIN_AGE_HOURS = 48
 # ---------- حماية لما تكون مش موجود ----------
 CANARY_PER_DAY = 1       # لحد ما أول فيديو يتنشر علنًا فعلًا: فيديو واحد بس في اليوم
 MAX_RUN_MINUTES = 40     # أقصى مدة للتشغيل الواحد (بيوفر دقائق GitHub)
+
+# لقطات واقعية بديلة لما مفيش فوتيج بيطابق الكلام (بدل الخلفيات التجريدية)
+CATEGORY_FOOTAGE = {
+    "space": ["galaxy stars", "planet earth space", "night sky"],
+    "earth": ["mountain landscape", "ocean waves", "volcano"],
+    "animals": ["wildlife animals", "forest animals", "underwater fish"],
+    "human-body": ["science laboratory", "microscope cells", "human silhouette"],
+    "physics": ["science experiment", "light rays", "laboratory"],
+    "chemistry": ["chemistry laboratory", "liquid bubbles", "science experiment"],
+    "history": ["old city ruins", "ancient architecture", "historical monument"],
+    "how-it-works": ["technology machine", "circuit board", "factory machinery"],
+    "other": ["nature landscape", "city timelapse", "clouds sky"],
+}

@@ -36,7 +36,8 @@ def make_video(script, workdir):
         dur, words = voice.synth_scene(sc["text"], voice_name, audio)
         dur += 0.15
         clip = None
-        for q in (sc.get("query"), script.get("topic_query"), "abstract background"):
+        cat_q = config.CATEGORY_FOOTAGE.get(script.get("category", "other"), config.CATEGORY_FOOTAGE["other"])
+        for q in (sc.get("query"), script.get("topic_query"), random.choice(cat_q), "nature landscape"):
             if q:
                 clip = footage.find_clip(q, used_clips, os.path.join(workdir, f"c{i}.mp4"))
                 if clip:
@@ -143,7 +144,10 @@ def main():
     print(f"\nخلصنا: {done}/{need}")
     if done < need:
         print("⚠️ العدد ناقص. التشغيل الجاي في الـ workflow هيكمّل الباقي تلقائيًا.")
-        return 1 if not args.no_upload or done == 0 else 0
+        if args.no_upload:
+            return 0 if done >= 1 else 1
+        # إيميل الفشل بيتبعت بس لو ده آخر تشغيل في اليوم واليوم لسه ناقص
+        return 1 if utcnow().hour >= 7 else 0
     return 0
 
 if __name__ == "__main__":
