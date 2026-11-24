@@ -47,3 +47,29 @@ def burn_subs(video, ass, out, music=None):
         _run(["ffmpeg", "-y", "-i", video, "-vf", f"ass={ass}",
               "-c:v", "libx264", "-preset", "veryfast", "-crf", "22",
               "-c:a", "copy", "-movflags", "+faststart", out])
+
+
+def render_clip(clip, duration, out):
+    """مشهد فيديو بدون صوت (الصوت بيتركّب مرة واحدة في الآخر)."""
+    W, H = config.VIDEO_W, config.VIDEO_H
+    if clip:
+        src = ["-stream_loop", "-1", "-i", clip]
+    else:
+        src = ["-f", "lavfi", "-i", f"color=c=0x0f1b3d:s={W}x{H}:r={config.FPS}"]
+    vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
+          f"setsar=1,fps={config.FPS},format=yuv420p")
+    _run(["ffmpeg", "-y", *src, "-t", f"{duration:.3f}", "-vf", vf, "-an",
+          "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", out])
+
+def finalize(video, ass, voice, out, music=None):
+    """بيركّب الصوت المتصل + الموسيقى + الترجمة على الفيديو."""
+    if music:
+        fc = (f"[0:v]ass={ass}[v];[2:a]volume={config.MUSIC_VOLUME}[m];"
+              "[1:a][m]amix=inputs=2:duration=first:normalize=0[a]")
+        cmd = ["ffmpeg", "-y", "-i", video, "-i", voice, "-i", music, "-filter_complex", fc,
+               "-map", "[v]", "-map", "[a]"]
+    else:
+        cmd = ["ffmpeg", "-y", "-i", video, "-i", voice, "-filter_complex", f"[0:v]ass={ass}[v]",
+               "-map", "[v]", "-map", "1:a"]
+    _run(cmd + ["-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-c:a", "aac",
+                "-shortest", "-movflags", "+faststart", out])

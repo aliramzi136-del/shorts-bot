@@ -2,7 +2,7 @@
 كل تشغيل بيكمّل الناقص ليوم بكرة (UTC) لحد ما يوصل لـ 5 فيديوهات مجدولة.
 الـ workflow بيشتغل أكتر من مرة في اليوم، فلو فشل مرة التشغيل اللي بعده بيكمّل."""
 import argparse, os, random, re, shutil, sys, tempfile, time, datetime as dt
-import config, state, sources, scriptgen, factcheck, topicfilter, learning, voice, footage, render
+import config, state, sources, scriptgen, factcheck, tashkeel, topicfilter, learning, voice, footage, render
 
 def utcnow():
     return dt.datetime.now(dt.timezone.utc)
@@ -30,11 +30,10 @@ def hook_text(script):
 
 def make_video(script, workdir):
     voice_name = random.choice(config.VOICES)
-    used_clips, parts, scene_words, offset = set(), [], [], 0.0
+    texts = [s.get("tts") or s["text"] for s in script["scenes"]]
+    audio, durs, scene_words = voice.synth_script(texts, voice_name, workdir)   # صوت واحد متصل
+    used_clips, parts = set(), []
     for i, sc in enumerate(script["scenes"]):
-        audio = os.path.join(workdir, f"a{i}.mp3")
-        dur, words = voice.synth_scene(sc["text"], voice_name, audio)
-        dur += 0.15
         clip = None
         cat_q = config.CATEGORY_FOOTAGE.get(script.get("category", "other"), config.CATEGORY_FOOTAGE["other"])
         for q in (sc.get("query"), script.get("topic_query"), random.choice(cat_q), "nature landscape"):
@@ -43,24 +42,23 @@ def make_video(script, workdir):
                 if clip:
                     break
         part = os.path.join(workdir, f"s{i}.mp4")
-        render.render_scene(clip, audio, dur, part)
+        render.render_clip(clip, durs[i], part)
         parts.append(part)
-        scene_words.append((offset, words))
-        offset += dur
-    if offset > config.MAX_VIDEO_SECONDS + 2:
-        print(f"[!] الفيديو {offset:.0f}ث - أطول من المتوقع")
+    total = sum(durs)
+    if total > config.MAX_VIDEO_SECONDS + 2:
+        print(f"[!] الفيديو {total:.0f}ث - أطول من المتوقع")
     ass = os.path.join(workdir, "subs.ass")
-    voice.build_ass(scene_words, ass, hook=hook_text(script))
+    voice.build_ass([(0.0, words) for words in scene_words], ass, hook=hook_text(script))
     joined = os.path.join(workdir, "joined.mp4")
     render.concat(parts, joined, workdir)
     music = os.path.join(workdir, "music.m4a")
     try:
-        render.make_music(music, offset + 1)
+        render.make_music(music, total + 1)
     except Exception as e:
         print(f"[i] الموسيقى فشلت ({e}) - هكمل من غيرها")
         music = None
     final = os.path.join(workdir, "final.mp4")
-    render.burn_subs(joined, ass, final, music=music)
+    render.finalize(joined, ass, audio, final, music=music)
     return final
 
 def main():
@@ -114,6 +112,7 @@ def main():
                 state.save(st)
                 continue
             print("   العنوان:", script["title"])
+            script = tashkeel.prepare(script)
             final = make_video(script, workdir)
             if args.no_upload:
                 os.makedirs(args.out, exist_ok=True)
