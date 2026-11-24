@@ -114,7 +114,10 @@
   "dG7pemDgwmc",
   "axILrr1GgMs",
   "ZPu3kezlC08",
-  "_G5GzEbHdlc"
+  "_G5GzEbHdlc",
+  "moKQ4klRARw",
+  "AXuU7FUZhYc",
+  "1EX702Au9oQ"
  ],
  "published": [
   {
@@ -884,6 +887,30 @@
    "source_channel": "AsapSCIENCE",
    "category": "human-body",
    "publish_at": "2026-11-24T21:34:00Z"
+  },
+  {
+   "video_id": "o72sBAj5W1I",
+   "title": "كيف تتنبأ بحركة هذا البندول المزدوج؟",
+   "source": "moKQ4klRARw",
+   "source_channel": "Vsauce",
+   "category": "physics",
+   "publish_at": "2026-11-25T07:56:00Z"
+  },
+  {
+   "video_id": "V1Ej5NiTcbk",
+   "title": "كيف تحولت مزحة علمية إلى أحد أعظم الاكتشافات في الفيزياء؟",
+   "source": "AXuU7FUZhYc",
+   "source_channel": "Vsauce",
+   "category": "physics",
+   "publish_at": "2026-11-25T11:53:00Z"
+  },
+  {
+   "video_id": "RgflHWYYePU",
+   "title": "لماذا لا يعتبر هذا المخلوق البحري حيوانا واحدا؟",
+   "source": "1EX702Au9oQ",
+   "source_channel": "SciShow",
+   "category": "animals",
+   "publish_at": "2026-11-25T14:53:00Z"
   }
  ],
  "fails": {
@@ -897,7 +924,7 @@
  },
  "stats": {
   "9BUkngYIljM": {
-   "views": 14,
+   "views": 16,
    "likes": 0
   },
   "S0BAywuoXAk": {
@@ -937,7 +964,7 @@
    "likes": 0
   },
   "TbQfmmiLTH8": {
-   "views": 22,
+   "views": 23,
    "likes": 0
   },
   "sG6rbsO0W2c": {
@@ -1065,7 +1092,7 @@
    "likes": 0
   },
   "a8MooodYenk": {
-   "views": 284,
+   "views": 286,
    "likes": 5
   },
   "FtrlHDo7xlM": {
@@ -1081,7 +1108,7 @@
    "likes": 0
   },
   "gGqSUw8CEVI": {
-   "views": 52,
+   "views": 53,
    "likes": 1
   },
   "evinYuU3Z1Q": {
@@ -1093,7 +1120,7 @@
    "likes": 2
   },
   "byd_eHW-xe0": {
-   "views": 102,
+   "views": 103,
    "likes": 0
   },
   "6FqUN5s6_yI": {
@@ -1141,7 +1168,7 @@
    "likes": 0
   },
   "tS3FuGsb6Bk": {
-   "views": 959,
+   "views": 960,
    "likes": 7
   },
   "w0I26lLFsGk": {
@@ -1153,7 +1180,7 @@
    "likes": 5
   },
   "LMhLVZpaYvo": {
-   "views": 7,
+   "views": 8,
    "likes": 0
   },
   "rqVGilwVbqw": {
@@ -1161,7 +1188,7 @@
    "likes": 0
   },
   "K0WF4L8jhvQ": {
-   "views": 103,
+   "views": 106,
    "likes": 0
   },
   "Dvi1FfTOfic": {
@@ -1170,7 +1197,7 @@
   },
   "Gts2XY0GqfY": {
    "views": 948,
-   "likes": 9
+   "likes": 8
   },
   "-1pxPZ4rBjo": {
    "views": 86,
@@ -1181,7 +1208,7 @@
    "likes": 0
   },
   "gMyi2fk9f0U": {
-   "views": 867,
+   "views": 871,
    "likes": 3
   },
   "nR9Ngoiq3B8": {
@@ -1189,20 +1216,36 @@
    "likes": 2
   },
   "25o_6qvbji8": {
-   "views": 869,
+   "views": 868,
    "likes": 2
   },
   "XOhCFRSgDv4": {
-   "views": 7,
+   "views": 8,
    "likes": 0
   },
   "0WnUPhdejHY": {
-   "views": 4,
+   "views": 5,
    "likes": 0
   },
   "b8ioVVKAaoM": {
-   "views": 370,
+   "views": 380,
    "likes": 10
+  },
+  "I33AHD-YBJQ": {
+   "views": 1000,
+   "likes": 12
+  },
+  "MZliCTuybzU": {
+   "views": 40,
+   "likes": 0
+  },
+  "QpigAnl-qU0": {
+   "views": 5,
+   "likes": 0
+  },
+  "m872hdiSl1I": {
+   "views": 0,
+   "likes": 0
   }
  }
 }
