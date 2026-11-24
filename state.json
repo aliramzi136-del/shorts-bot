@@ -117,7 +117,9 @@
   "_G5GzEbHdlc",
   "moKQ4klRARw",
   "AXuU7FUZhYc",
-  "1EX702Au9oQ"
+  "1EX702Au9oQ",
+  "N9zYE5Ui97g",
+  "YYu76d3leR8"
  ],
  "published": [
   {
@@ -911,6 +913,22 @@
    "source_channel": "SciShow",
    "category": "animals",
    "publish_at": "2026-11-25T14:53:00Z"
+  },
+  {
+   "video_id": "EeCCP2l-aA4",
+   "title": "ماذا يحدث لو انفجر بركان فائق على الأرض؟",
+   "source": "N9zYE5Ui97g",
+   "source_channel": "SciShow",
+   "category": "earth",
+   "publish_at": "2026-11-25T18:28:00Z"
+  },
+  {
+   "video_id": "pZi8WEeOngY",
+   "title": "كيف يصنع هذا الأنبوب الصغير صوت الرعد؟",
+   "source": "YYu76d3leR8",
+   "source_channel": "Vsauce",
+   "category": "physics",
+   "publish_at": "2026-11-25T21:29:00Z"
   }
  ],
  "fails": {
