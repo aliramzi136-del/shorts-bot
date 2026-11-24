@@ -33,16 +33,15 @@ def make_video(script, workdir):
     texts = [s.get("tts") or s["text"] for s in script["scenes"]]
     audio, durs, scene_words = voice.synth_script(texts, voice_name, workdir)   # صوت واحد متصل
     used_clips, parts = set(), []
+    cat_q = config.CATEGORY_FOOTAGE.get(script.get("category", "other"), config.CATEGORY_FOOTAGE["other"])
     for i, sc in enumerate(script["scenes"]):
-        clip = None
-        cat_q = config.CATEGORY_FOOTAGE.get(script.get("category", "other"), config.CATEGORY_FOOTAGE["other"])
-        for q in (sc.get("query"), script.get("topic_query"), random.choice(cat_q), "nature landscape"):
-            if q:
-                clip = footage.find_clip(q, used_clips, os.path.join(workdir, f"c{i}.mp4"))
-                if clip:
-                    break
+        queries = [sc.get("query"), sc.get("alt"), script.get("topic_query"), random.choice(cat_q)]
+        kind, path = footage.find_visual(queries, used_clips, os.path.join(workdir, f"c{i}"))
         part = os.path.join(workdir, f"s{i}.mp4")
-        render.render_clip(clip, durs[i], part)
+        if kind == "image":
+            render.render_image(path, durs[i], part)
+        else:
+            render.render_clip(path, durs[i], part)   # path=None => خلفية سادة كحل أخير
         parts.append(part)
     total = sum(durs)
     if total > config.MAX_VIDEO_SECONDS + 2:

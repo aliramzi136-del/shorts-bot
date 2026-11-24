@@ -57,3 +57,7 @@ CATEGORY_FOOTAGE = {
     "how-it-works": ["technology machine", "circuit board", "factory machinery"],
     "other": ["nature landscape", "city timelapse", "clouds sky"],
 }
+
+# ملاحظات نطق بتتبعت لـ Gemini وقت التشكيل. ضيف هنا أي كلمة بتتنطق غلط، مثلًا:
+# "اكتب كلمة (بلازما) مشكولة هكذا: بِلَازْمَا"
+PRONUNCIATION_NOTES = []

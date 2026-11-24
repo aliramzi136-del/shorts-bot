@@ -73,3 +73,14 @@ def finalize(video, ass, voice, out, music=None):
                "-map", "[v]", "-map", "1:a"]
     _run(cmd + ["-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-c:a", "aac",
                 "-shortest", "-movflags", "+faststart", out])
+
+
+def render_image(img, duration, out):
+    """صورة ثابتة بتتحول لمشهد فيديو بحركة تقريب بطيئة (Ken Burns)."""
+    W, H = config.VIDEO_W, config.VIDEO_H
+    frames = int(duration * config.FPS) + 2
+    vf = (f"scale={int(W*1.2)}:{int(H*1.2)}:force_original_aspect_ratio=increase,crop={int(W*1.2)}:{int(H*1.2)},"
+          f"zoompan=z='1+0.12*on/{frames}':x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2':d={frames}:s={W}x{H}:fps={config.FPS},"
+          "format=yuv420p")
+    _run(["ffmpeg", "-y", "-i", img, "-t", f"{duration:.3f}", "-vf", vf, "-an",
+          "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", out])

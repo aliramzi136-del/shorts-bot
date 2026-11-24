@@ -13,13 +13,13 @@ SOURCE VIDEO TITLE (context only, it may itself be wrong): {title}
 
 Decide:
 - "pass": every claim is accurate and well supported by reliable sources.
-- "fix": some claims are wrong, exaggerated or unverifiable, but the topic is fine. Return corrected scenes in the same structure: simple Arabic, 5-7 scenes, 85-105 words in total, remove or soften anything unverifiable, keep the hook, keep the final question to the audience and the short follow line at the very end, keep each scene's "query".
+- "fix": some claims are wrong, exaggerated or unverifiable, but the topic is fine. Return corrected scenes in the same structure: simple Arabic, 5-7 scenes, 85-105 words in total, remove or soften anything unverifiable, keep the hook, keep the final question to the audience and the short follow line at the very end, update each scene's "query" and "alt" (English stock-footage search words for the specific subject) so they still match the corrected text.
 - "reject": the topic is mostly false or a myth, is medical/health advice, political, about breaking news, or cannot be made accurate.
 
 When in doubt, choose "fix" or "reject", never "pass".
 
 Return ONLY JSON, no markdown:
-{{"verdict": "pass|fix|reject", "issues": ["..."], "title": "corrected Arabic title or the same one", "scenes": [{{"text": "", "query": ""}}]}}
+{{"verdict": "pass|fix|reject", "issues": ["..."], "title": "corrected Arabic title or the same one", "scenes": [{{"text": "", "query": "", "alt": ""}}]}}
 """
 
 def _parse(text):

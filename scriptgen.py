@@ -18,7 +18,7 @@ RULES:
 - Avoid medical/health advice, politics, religion, breaking news, and crime. Prefer timeless science, nature, space, history and how-things-work topics.
 - Prefer a curiosity question for the Arabic title and hook (why / what if / how), but only when it fits the topic naturally.
 - Near the end: a short question that invites comments, then ONE very short follow line (e.g. "تابعنا لحقيقة جديدة كل يوم") as the last sentence.
-- Split into 5-7 scenes. Each scene has "text" (1-2 short Arabic sentences, no emojis, no tashkeel) and "query" (2-3 English words describing a concrete visual for stock footage, e.g. "galaxy stars", "ocean waves").
+- Split into 5-7 scenes. Each scene has "text" (1-2 short Arabic sentences, no emojis, no tashkeel), "query" and "alt". The visuals MUST match what that scene says: "query" = the specific physical subject being discussed, in 2-3 English words, searchable in a stock photo/video library (e.g. "black hole", "spider web", "human brain", "volcano eruption", "ocean current"); "alt" = a broader but still relevant fallback (e.g. "galaxy stars", "spider", "neurons", "lava"). Never use abstract words (idea, power, secret, mystery).
 - "title": Arabic, max 60 chars, curiosity-driven but honest.
 - "description": 2 short Arabic sentences.
 - "tags": 6 tags (Arabic and English), no '#'.
@@ -26,7 +26,7 @@ RULES:
 - "topic_query": 2 English words for a generic stock-footage search that fits the whole topic.
 
 Return ONLY valid JSON:
-{{"title": "", "description": "", "tags": [], "category": "", "topic_query": "", "scenes": [{{"text": "", "query": ""}}]}}
+{{"title": "", "description": "", "tags": [], "category": "", "topic_query": "", "scenes": [{{"text": "", "query": "", "alt": ""}}]}}
 """
 
 def generate(idea, transcript):
