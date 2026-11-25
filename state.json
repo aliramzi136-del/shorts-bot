@@ -119,7 +119,9 @@
   "AXuU7FUZhYc",
   "1EX702Au9oQ",
   "N9zYE5Ui97g",
-  "YYu76d3leR8"
+  "YYu76d3leR8",
+  "OshGmNgfoIs",
+  "e2f8Pe0vIXM"
  ],
  "published": [
   {
@@ -929,6 +931,22 @@
    "source_channel": "Vsauce",
    "category": "physics",
    "publish_at": "2026-11-25T21:29:00Z"
+  },
+  {
+   "video_id": "8ouAdqAQWCg",
+   "title": "لماذا لا توجد طرق تؤدي إلى هذه العاصمة؟",
+   "source": "OshGmNgfoIs",
+   "source_channel": "RealLifeLore",
+   "category": "earth",
+   "publish_at": "2026-11-26T07:59:00Z"
+  },
+  {
+   "video_id": "VDbMyuMptls",
+   "title": "كيف يمكن للزجاج أن يحطم الرصاص؟",
+   "source": "e2f8Pe0vIXM",
+   "source_channel": "Vsauce",
+   "category": "physics",
+   "publish_at": "2026-11-26T11:29:00Z"
   }
  ],
  "fails": {
@@ -1070,7 +1088,7 @@
    "likes": 0
   },
   "ypVxqzjZoqw": {
-   "views": 1018,
+   "views": 1019,
    "likes": 6
   },
   "RJgVu7LYdtM": {
@@ -1134,11 +1152,11 @@
    "likes": 16
   },
   "mCT-EWUa7cQ": {
-   "views": 130,
+   "views": 131,
    "likes": 2
   },
   "byd_eHW-xe0": {
-   "views": 103,
+   "views": 104,
    "likes": 0
   },
   "6FqUN5s6_yI": {
@@ -1154,7 +1172,7 @@
    "likes": 13
   },
   "OJ1vnFEHwPU": {
-   "views": 225,
+   "views": 226,
    "likes": 5
   },
   "vRlxwfAHoAY": {
@@ -1166,19 +1184,19 @@
    "likes": 0
   },
   "waCeI25jcq8": {
-   "views": 4,
+   "views": 6,
    "likes": 0
   },
   "MEtsnZruIho": {
-   "views": 127,
+   "views": 129,
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 75,
+   "views": 77,
    "likes": 0
   },
   "-ft1YrJXmYI": {
-   "views": 419,
+   "views": 421,
    "likes": 6
   },
   "t_InIykU0Rk": {
@@ -1186,7 +1204,7 @@
    "likes": 0
   },
   "tS3FuGsb6Bk": {
-   "views": 960,
+   "views": 962,
    "likes": 7
   },
   "w0I26lLFsGk": {
@@ -1198,7 +1216,7 @@
    "likes": 5
   },
   "LMhLVZpaYvo": {
-   "views": 8,
+   "views": 9,
    "likes": 0
   },
   "rqVGilwVbqw": {
@@ -1218,7 +1236,7 @@
    "likes": 8
   },
   "-1pxPZ4rBjo": {
-   "views": 86,
+   "views": 91,
    "likes": 1
   },
   "lDsNbdFZAYw": {
@@ -1226,7 +1244,7 @@
    "likes": 0
   },
   "gMyi2fk9f0U": {
-   "views": 871,
+   "views": 874,
    "likes": 3
   },
   "nR9Ngoiq3B8": {
@@ -1238,7 +1256,7 @@
    "likes": 2
   },
   "XOhCFRSgDv4": {
-   "views": 8,
+   "views": 12,
    "likes": 0
   },
   "0WnUPhdejHY": {
@@ -1246,7 +1264,7 @@
    "likes": 0
   },
   "b8ioVVKAaoM": {
-   "views": 381,
+   "views": 387,
    "likes": 10
   },
   "I33AHD-YBJQ": {
@@ -1254,7 +1272,7 @@
    "likes": 12
   },
   "MZliCTuybzU": {
-   "views": 40,
+   "views": 41,
    "likes": 0
   },
   "QpigAnl-qU0": {
@@ -1266,6 +1284,22 @@
    "likes": 0
   },
   "j8n_oe0R3NA": {
+   "views": 3,
+   "likes": 0
+  },
+  "NDPLn_9fWI4": {
+   "views": 66,
+   "likes": 1
+  },
+  "5YDP3I12FtA": {
+   "views": 466,
+   "likes": 13
+  },
+  "IvQjCKzUKIk": {
+   "views": 267,
+   "likes": 1
+  },
+  "sslDRdSsvco": {
    "views": 3,
    "likes": 0
   }
