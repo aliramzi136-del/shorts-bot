@@ -121,7 +121,8 @@
   "N9zYE5Ui97g",
   "YYu76d3leR8",
   "OshGmNgfoIs",
-  "e2f8Pe0vIXM"
+  "e2f8Pe0vIXM",
+  "ZDlcqG7Kuho"
  ],
  "published": [
   {
@@ -947,6 +948,14 @@
    "source_channel": "Vsauce",
    "category": "physics",
    "publish_at": "2026-11-26T11:29:00Z"
+  },
+  {
+   "video_id": "04AeAiYa0S4",
+   "title": "هل تتحدث القردة بلغة الإشارة حقاً؟",
+   "source": "ZDlcqG7Kuho",
+   "source_channel": "SciShow",
+   "category": "animals",
+   "publish_at": "2026-11-26T15:08:00Z"
   }
  ],
  "fails": {
@@ -1192,7 +1201,7 @@
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 77,
+   "views": 78,
    "likes": 0
   },
   "-ft1YrJXmYI": {
@@ -1284,7 +1293,7 @@
    "likes": 0
   },
   "j8n_oe0R3NA": {
-   "views": 3,
+   "views": 4,
    "likes": 0
   },
   "NDPLn_9fWI4": {
