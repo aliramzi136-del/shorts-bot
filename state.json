@@ -123,7 +123,13 @@
   "OshGmNgfoIs",
   "e2f8Pe0vIXM",
   "ZDlcqG7Kuho",
-  "dfA_VA20A2Y"
+  "dfA_VA20A2Y",
+  "nt-j9ui8MGY",
+  "JnP0pahxRt8",
+  "ONAuUyml0yI",
+  "9w2cZbmNf94",
+  "b1EMX3wyqCY",
+  "w5RZfxQHxyY"
  ],
  "published": [
   {
@@ -957,6 +963,46 @@
    "source_channel": "SciShow",
    "category": "animals",
    "publish_at": "2026-11-26T15:08:00Z"
+  },
+  {
+   "video_id": "nS2tu2Dq3TU",
+   "title": "لماذا تضحي بعض الحيوانات بإنجاب الصغار؟",
+   "source": "nt-j9ui8MGY",
+   "source_channel": "AsapSCIENCE",
+   "category": "animals",
+   "publish_at": "2026-11-27T07:49:00Z"
+  },
+  {
+   "video_id": "DdRQ02n79NU",
+   "title": "لماذا تحولت الطابعات لأكبر فخ في عصرنا؟",
+   "source": "JnP0pahxRt8",
+   "source_channel": "The Infographics Show",
+   "category": "how-it-works",
+   "publish_at": "2026-11-27T11:08:00Z"
+  },
+  {
+   "video_id": "9yxWcAiT_vA",
+   "title": "لماذا لا تلتصق أصابعك ببعضها أثناء نزع الصمغ؟",
+   "source": "ONAuUyml0yI",
+   "source_channel": "Veritasium",
+   "category": "human-body",
+   "publish_at": "2026-11-27T15:24:00Z"
+  },
+  {
+   "video_id": "m4Ul0Jm18Yk",
+   "title": "ماذا يحدث لدماغك عندما تحلم بيقظة؟",
+   "source": "b1EMX3wyqCY",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-27T18:45:00Z"
+  },
+  {
+   "video_id": "jhRXH2oaM34",
+   "title": "لماذا لا تشعر بالسعادة فور تناول مضادات الاكتئاب؟",
+   "source": "w5RZfxQHxyY",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "human-body",
+   "publish_at": "2026-11-27T21:25:00Z"
   }
  ],
  "fails": {
@@ -1099,7 +1145,7 @@
    "likes": 0
   },
   "ypVxqzjZoqw": {
-   "views": 1019,
+   "views": 1025,
    "likes": 6
   },
   "RJgVu7LYdtM": {
@@ -1203,23 +1249,23 @@
    "likes": 2
   },
   "2dVyXomwxZg": {
-   "views": 78,
+   "views": 80,
    "likes": 0
   },
   "-ft1YrJXmYI": {
-   "views": 421,
+   "views": 422,
    "likes": 6
   },
   "t_InIykU0Rk": {
-   "views": 7,
+   "views": 8,
    "likes": 0
   },
   "tS3FuGsb6Bk": {
-   "views": 963,
+   "views": 965,
    "likes": 7
   },
   "w0I26lLFsGk": {
-   "views": 813,
+   "views": 815,
    "likes": 5
   },
   "jFxbex6dCIc": {
@@ -1227,7 +1273,7 @@
    "likes": 5
   },
   "LMhLVZpaYvo": {
-   "views": 9,
+   "views": 11,
    "likes": 0
   },
   "rqVGilwVbqw": {
@@ -1235,11 +1281,11 @@
    "likes": 0
   },
   "K0WF4L8jhvQ": {
-   "views": 106,
+   "views": 111,
    "likes": 0
   },
   "Dvi1FfTOfic": {
-   "views": 906,
+   "views": 907,
    "likes": 10
   },
   "Gts2XY0GqfY": {
@@ -1247,7 +1293,7 @@
    "likes": 8
   },
   "-1pxPZ4rBjo": {
-   "views": 91,
+   "views": 93,
    "likes": 1
   },
   "lDsNbdFZAYw": {
@@ -1263,19 +1309,19 @@
    "likes": 2
   },
   "25o_6qvbji8": {
-   "views": 868,
+   "views": 870,
    "likes": 2
   },
   "XOhCFRSgDv4": {
-   "views": 12,
+   "views": 17,
    "likes": 0
   },
   "0WnUPhdejHY": {
-   "views": 5,
+   "views": 8,
    "likes": 0
   },
   "b8ioVVKAaoM": {
-   "views": 387,
+   "views": 398,
    "likes": 10
   },
   "I33AHD-YBJQ": {
@@ -1291,7 +1337,7 @@
    "likes": 0
   },
   "m872hdiSl1I": {
-   "views": 0,
+   "views": 1,
    "likes": 0
   },
   "j8n_oe0R3NA": {
@@ -1303,20 +1349,36 @@
    "likes": 1
   },
   "5YDP3I12FtA": {
-   "views": 466,
+   "views": 469,
    "likes": 13
   },
   "IvQjCKzUKIk": {
-   "views": 267,
+   "views": 271,
    "likes": 1
   },
   "sslDRdSsvco": {
-   "views": 3,
+   "views": 5,
    "likes": 0
   },
   "9dpYbVZau9w": {
-   "views": 269,
+   "views": 271,
    "likes": 3
+  },
+  "umOrattVtWg": {
+   "views": 947,
+   "likes": 16
+  },
+  "sR5St6YFUKA": {
+   "views": 1046,
+   "likes": 14
+  },
+  "WSsBMI0rYe4": {
+   "views": 1,
+   "likes": 0
+  },
+  "gtC2Xi30Uqo": {
+   "views": 1,
+   "likes": 0
   }
  }
 }
