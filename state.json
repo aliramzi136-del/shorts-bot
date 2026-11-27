@@ -129,7 +129,9 @@
   "ONAuUyml0yI",
   "9w2cZbmNf94",
   "b1EMX3wyqCY",
-  "w5RZfxQHxyY"
+  "w5RZfxQHxyY",
+  "35No369rmq0",
+  "of60wacXiTQ"
  ],
  "published": [
   {
@@ -1003,6 +1005,22 @@
    "source_channel": "Kurzgesagt – In a Nutshell",
    "category": "human-body",
    "publish_at": "2026-11-27T21:25:00Z"
+  },
+  {
+   "video_id": "P_OMV1ECZyw",
+   "title": "ماذا يحدث إذا انخفضت حرارة الشمس؟",
+   "source": "35No369rmq0",
+   "source_channel": "Kurzgesagt – In a Nutshell",
+   "category": "space",
+   "publish_at": "2026-11-28T08:11:00Z"
+  },
+  {
+   "video_id": "Zga8n_acG08",
+   "title": "كيف يتوقف الترام القديم باستخدام حرق الكهرباء؟",
+   "source": "of60wacXiTQ",
+   "source_channel": "Tom Scott",
+   "category": "how-it-works",
+   "publish_at": "2026-11-28T11:38:00Z"
   }
  ],
  "fails": {
@@ -1093,7 +1111,7 @@
    "likes": 0
   },
   "hYPVXZLEqoY": {
-   "views": 24,
+   "views": 25,
    "likes": 2
   },
   "rXnuP5Jty1A": {
@@ -1145,7 +1163,7 @@
    "likes": 0
   },
   "ypVxqzjZoqw": {
-   "views": 1025,
+   "views": 1027,
    "likes": 6
   },
   "RJgVu7LYdtM": {
@@ -1153,7 +1171,7 @@
    "likes": 8
   },
   "zv2Cjt4u56E": {
-   "views": 1005,
+   "views": 1006,
    "likes": 12
   },
   "jA4AaYi29L8": {
@@ -1257,15 +1275,15 @@
    "likes": 6
   },
   "t_InIykU0Rk": {
-   "views": 8,
+   "views": 9,
    "likes": 0
   },
   "tS3FuGsb6Bk": {
-   "views": 965,
+   "views": 966,
    "likes": 7
   },
   "w0I26lLFsGk": {
-   "views": 815,
+   "views": 816,
    "likes": 5
   },
   "jFxbex6dCIc": {
@@ -1273,11 +1291,11 @@
    "likes": 5
   },
   "LMhLVZpaYvo": {
-   "views": 11,
+   "views": 13,
    "likes": 0
   },
   "rqVGilwVbqw": {
-   "views": 6,
+   "views": 11,
    "likes": 0
   },
   "K0WF4L8jhvQ": {
@@ -1285,15 +1303,15 @@
    "likes": 0
   },
   "Dvi1FfTOfic": {
-   "views": 907,
+   "views": 908,
    "likes": 10
   },
   "Gts2XY0GqfY": {
-   "views": 948,
+   "views": 949,
    "likes": 8
   },
   "-1pxPZ4rBjo": {
-   "views": 93,
+   "views": 98,
    "likes": 1
   },
   "lDsNbdFZAYw": {
@@ -1329,7 +1347,7 @@
    "likes": 12
   },
   "MZliCTuybzU": {
-   "views": 41,
+   "views": 42,
    "likes": 0
   },
   "QpigAnl-qU0": {
@@ -1341,7 +1359,7 @@
    "likes": 0
   },
   "j8n_oe0R3NA": {
-   "views": 4,
+   "views": 5,
    "likes": 0
   },
   "NDPLn_9fWI4": {
@@ -1353,7 +1371,7 @@
    "likes": 13
   },
   "IvQjCKzUKIk": {
-   "views": 271,
+   "views": 274,
    "likes": 1
   },
   "sslDRdSsvco": {
@@ -1365,11 +1383,11 @@
    "likes": 3
   },
   "umOrattVtWg": {
-   "views": 950,
+   "views": 951,
    "likes": 16
   },
   "sR5St6YFUKA": {
-   "views": 1047,
+   "views": 1090,
    "likes": 14
   },
   "WSsBMI0rYe4": {
@@ -1377,12 +1395,28 @@
    "likes": 0
   },
   "gtC2Xi30Uqo": {
-   "views": 1,
+   "views": 2,
    "likes": 0
   },
   "XwG5G9kTvRs": {
-   "views": 902,
+   "views": 925,
    "likes": 7
+  },
+  "D0hew1ueyI4": {
+   "views": 268,
+   "likes": 4
+  },
+  "LJfHZTdi2Gk": {
+   "views": 31,
+   "likes": 2
+  },
+  "OtsnmYrr_3s": {
+   "views": 0,
+   "likes": 0
+  },
+  "9gMswTmSXIE": {
+   "views": 10,
+   "likes": 0
   }
  }
 }
