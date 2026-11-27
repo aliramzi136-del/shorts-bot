@@ -131,7 +131,9 @@
   "b1EMX3wyqCY",
   "w5RZfxQHxyY",
   "35No369rmq0",
-  "of60wacXiTQ"
+  "of60wacXiTQ",
+  "53zGUdor9rU",
+  "IgWZXOQV7Ys"
  ],
  "published": [
   {
@@ -1021,6 +1023,22 @@
    "source_channel": "Tom Scott",
    "category": "how-it-works",
    "publish_at": "2026-11-28T11:38:00Z"
+  },
+  {
+   "video_id": "2DZW3FmCjws",
+   "title": "لماذا لا تبتعد القارات عن بعضها للأبد؟",
+   "source": "53zGUdor9rU",
+   "source_channel": "Vsauce",
+   "category": "earth",
+   "publish_at": "2026-11-28T15:20:00Z"
+  },
+  {
+   "video_id": "0upEWUse1Qs",
+   "title": "هل الانفجار العظيم لم يكن بداية الكون؟",
+   "source": "IgWZXOQV7Ys",
+   "source_channel": "The Infographics Show",
+   "category": "space",
+   "publish_at": "2026-11-28T18:38:00Z"
   }
  ],
  "fails": {
@@ -1387,7 +1405,7 @@
    "likes": 16
   },
   "sR5St6YFUKA": {
-   "views": 1090,
+   "views": 1092,
    "likes": 14
   },
   "WSsBMI0rYe4": {
