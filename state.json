@@ -133,7 +133,8 @@
   "35No369rmq0",
   "of60wacXiTQ",
   "53zGUdor9rU",
-  "IgWZXOQV7Ys"
+  "IgWZXOQV7Ys",
+  "1qrGwX9kQoQ"
  ],
  "published": [
   {
@@ -1039,6 +1040,14 @@
    "source_channel": "The Infographics Show",
    "category": "space",
    "publish_at": "2026-11-28T18:38:00Z"
+  },
+  {
+   "video_id": "X9qH6nt5KD0",
+   "title": "هل يسبب الأفسنتين الأخضر الهلاوس حقا؟",
+   "source": "1qrGwX9kQoQ",
+   "source_channel": "SciShow",
+   "category": "history",
+   "publish_at": "2026-11-28T21:36:00Z"
   }
  ],
  "fails": {
@@ -1405,7 +1414,7 @@
    "likes": 16
   },
   "sR5St6YFUKA": {
-   "views": 1092,
+   "views": 1097,
    "likes": 14
   },
   "WSsBMI0rYe4": {
