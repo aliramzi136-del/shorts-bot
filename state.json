@@ -137,7 +137,10 @@
   "1qrGwX9kQoQ",
   "LiAAayT_v84",
   "ZDRsHBGi8_8",
-  "154Xnt8Zxfg"
+  "154Xnt8Zxfg",
+  "V8rT6UI3Crg",
+  "gKF7NMxZ754",
+  "mYfm059EHHU"
  ],
  "published": [
   {
@@ -1067,6 +1070,30 @@
    "source_channel": "SciShow",
    "category": "animals",
    "publish_at": "2026-11-29T11:45:00Z"
+  },
+  {
+   "video_id": "7pakMDj3fkc",
+   "title": "كيف تم اكتشاف البارود بالصدفة؟",
+   "source": "V8rT6UI3Crg",
+   "source_channel": "Veritasium",
+   "category": "history",
+   "publish_at": "2026-11-29T14:41:00Z"
+  },
+  {
+   "video_id": "Hq5mAriGC44",
+   "title": "لماذا لا تلتصق قطرات الماء بهذه الأوراق؟",
+   "source": "gKF7NMxZ754",
+   "source_channel": "The Infographics Show",
+   "category": "earth",
+   "publish_at": "2026-11-29T18:55:00Z"
+  },
+  {
+   "video_id": "WJOXGvFOz7c",
+   "title": "لماذا تخلو طائرات المستقبل من النوافذ تماما؟",
+   "source": "mYfm059EHHU",
+   "source_channel": "The Infographics Show",
+   "category": "how-it-works",
+   "publish_at": "2026-11-29T21:49:00Z"
   }
  ],
  "fails": {
@@ -1077,7 +1104,8 @@
   "T8y7ZIq4jXY": 1,
   "QjhqB3tC1Ko": 1,
   "PXbVn-f_wuM": 1,
-  "LiAAayT_v84": 1
+  "LiAAayT_v84": 1,
+  "_vR9j223Kiw": 1
  },
  "stats": {
   "9BUkngYIljM": {
@@ -1349,7 +1377,7 @@
    "likes": 0
   },
   "Dvi1FfTOfic": {
-   "views": 908,
+   "views": 909,
    "likes": 10
   },
   "Gts2XY0GqfY": {
@@ -1483,6 +1511,10 @@
   "pZi8WEeOngY": {
    "views": 1,
    "likes": 0
+  },
+  "8ouAdqAQWCg": {
+   "views": 511,
+   "likes": 2
   }
  }
 }
