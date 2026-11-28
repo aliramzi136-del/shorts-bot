@@ -136,7 +136,8 @@
   "IgWZXOQV7Ys",
   "1qrGwX9kQoQ",
   "LiAAayT_v84",
-  "ZDRsHBGi8_8"
+  "ZDRsHBGi8_8",
+  "154Xnt8Zxfg"
  ],
  "published": [
   {
@@ -1058,6 +1059,14 @@
    "source_channel": "SciShow",
    "category": "animals",
    "publish_at": "2026-11-29T08:02:00Z"
+  },
+  {
+   "video_id": "vRJkIO_hOmY",
+   "title": "لماذا تشعل هذه الطيور الحرائق عمداً؟",
+   "source": "154Xnt8Zxfg",
+   "source_channel": "SciShow",
+   "category": "animals",
+   "publish_at": "2026-11-29T11:45:00Z"
   }
  ],
  "fails": {
