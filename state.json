@@ -135,7 +135,8 @@
   "53zGUdor9rU",
   "IgWZXOQV7Ys",
   "1qrGwX9kQoQ",
-  "LiAAayT_v84"
+  "LiAAayT_v84",
+  "ZDRsHBGi8_8"
  ],
  "published": [
   {
@@ -1049,6 +1050,14 @@
    "source_channel": "SciShow",
    "category": "history",
    "publish_at": "2026-11-28T21:36:00Z"
+  },
+  {
+   "video_id": "eShK-5dpblE",
+   "title": "لماذا تظهر بعض الحيوانات بألوان مستحيلة؟",
+   "source": "ZDRsHBGi8_8",
+   "source_channel": "SciShow",
+   "category": "animals",
+   "publish_at": "2026-11-29T08:02:00Z"
   }
  ],
  "fails": {
@@ -1455,7 +1464,7 @@
    "likes": 5
   },
   "RgflHWYYePU": {
-   "views": 1021,
+   "views": 1023,
    "likes": 7
   },
   "EeCCP2l-aA4": {
